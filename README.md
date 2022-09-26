@@ -1,3 +1,5 @@
+## Note :For Other Domain create  dir with domain name and just Open any domain/Language See the Readme.Md File Follow same steps. 
+
 <h1 align="center">Hacktoberfest 2022</h1>
 
 ![image](https://user-images.githubusercontent.com/54509629/192244436-a407b269-a685-487e-8020-046132656b0e.png)
