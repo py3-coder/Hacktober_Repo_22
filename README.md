@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main//hacktober.jpg">
+  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
 </p>
 
 
