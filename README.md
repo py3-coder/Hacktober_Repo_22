@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href = "https://github.com/py3-coder/Hacktober_Repo_22/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = py3-coder/Hacktober_Repo_22"/>
+  <img src = "https://contrib.rocks/image?repo=py3-coder/Hacktober_Repo_22"/>
 </a>
 
   
