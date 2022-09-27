@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/static/hacktober.jpg">
+  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main//hacktober.jpg">
 </p>
 
 
@@ -43,14 +43,14 @@
 - Fork this Repository to your GITHUB using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `content/participant/`
-- Make contributions to the `content` foldercontributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
+- Add your profile image in `Meta_Data/images/` ( use drag and drop option or upload by commands.)
+- Add your profile data in `Meta_Data/participant/`
+- Make contributions to the `Main` Directory contributions done to the `Specified-Domain` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
 - Star this repository
 
-NOTE : Contributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
+NOTE : Contributions done to the `Main` folder only will be counted towards the Hacktoberfest 2022
 
 # How to make your first Pull Request
 ### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
@@ -59,20 +59,20 @@ Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
 ## STEP-1. Add your profile picture to the folder
 
-Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+Add a picture picture of your choice in `Meta_Data/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
 
 ```
-static/images/<YOUR-USERNAME>.png
+Meta_Data/images/<YOUR-USERNAME>.png
 ```
 
 
 ## STEP-2. Add your profile information
 
-Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. 
+Create a markdown file in your folder following the convention `Meta_Data/participant/<YOUR-USERNAME>.md`. 
 Ex.
 
 ```
-content/participant/<YOUR-USERNAME>.md/
+Mata_Data/participant/<YOUR-USERNAME>.md/
 ```
 
 ## STEP-3. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
