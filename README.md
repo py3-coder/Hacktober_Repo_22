@@ -1,69 +1,96 @@
-## Note :For Other Domain create  dir with domain name and just Open any domain/Language See the Readme.Md File Follow same steps. 
 
-<h1 align="center">Hacktoberfest 2022</h1>
+# Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
+![Hacktoberfest 2021](static/logo.png)
 
-![image](https://user-images.githubusercontent.com/54509629/192244436-a407b269-a685-487e-8020-046132656b0e.png)
+## Contributors of `Hacktoberfest 2022`
+
+<div align="center">
+
+<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=py3-coder/Hacktoberfest2022_py3-coder" />
+</a>
+  
+</div>
+
+## You can generate `PULL REQUESTS` on this repository for `HACKTOBERFEST 2022`
+
+🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the Hacktoberfest-2022 challenge and earn a limited edition T-shirt.**
+
+>>> **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SCHWAGS 🔥.**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/py3-coder" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+
+<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/pulls"><img src="https://img.shields.io/github/issues-pr/py3-coder/Hacktoberfest2022_py3-coder" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/py3-coder/Hacktoberfest2022_py3-coder?color=2b9348"></a>
+<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/blob/master/LICENSE"></a>
+
+</div>
+
+## Instructions-
+
+- Fork this Repository to your GITHUB using the button at the top
+- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
+- Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
+- Add your profile data in `content/participant/`
+- Make contributions to the `content` foldercontributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
+- Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
+- Create a pull request
+- Star this repository
+
+NOTE : Contributions done to the `content` folder only will be counted towards the Hacktoberfest 2022
+
+# How to make your first Pull Request
+### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
+
+Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+
+## STEP-1. Add your profile picture to the folder
+
+Add a picture picture of your choice in `static/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
+
+```
+static/images/<YOUR-USERNAME>.png
+```
 
 
-<h2 align="center">Hacktoberfest_2022</h2>
+## STEP-2. Add your profile information
 
-<a href="https://hacktoberfest.com/participation/"><h3 align="center">Link To HacktoberFest 2021</h3></a>
+Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. 
+Ex.
 
-<h4 align="left">Event details:</h4>
+```
+content/participant/<YOUR-USERNAME>.md/
+```
 
-Hacktoberfest is a month-long challenge. It happens every year in the month of October.
-Hacktoberfest is open to everyone and it marks the celebration of Open Source. 
-It's the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
-Hacktoberfest will be hosted by Digital Ocean for the 8th year in a row in partnership with GitHub and other companies.
-Hacktoberfest® is open to everyone in our global community. 
-Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community.
-All backgrounds and skill levels are encouraged to complete the challenge.
-Hacktoberfest is a celebration open to everyone in our global community.
+## STEP-3. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 
-<h3 align="center">You can sign up anytime between October 1 and October 31.</h3>
+```
+---
+name: YOURNAME
+institution/company: INSTITUTION_NAME
+github:USERNAME
+---
+```
 
-<h3 align="center"><u>[ HacktoberFest Rules ]</u></h3>
+## STEP-4. Wait for Pull Request to merge
 
-<ol>
-<li>Register anytime between September 26 and October 31</li>
+## STEP-5. Celebrate - you've done your first pull request!!
 
-<li>Pull requests can be made in any GITHUB or GITLAB hosted project that’s participating in Hacktoberfest (look for the “hacktoberfest” topic)</li>
+```
+'''
+You are always advised to make more then 4 pull request
+Suppose, you have made only 4 pull request to different projects
+but due to some problem one project gets excluded from hackoctoberfest event then your pull request will not be counted towards HACKTOBERFEST contributions and 
+then you will be remained with only 3 valid pull requests.
+If you fail to make 4 valid pull requests then you can't get schwags or t-shirts.
+'''
+```
 
-<li>Project maintainers must accept your pull/merge requests for them to count toward your total</li>
-
-<li>Have 4 pull/merge requests accepted between October 1 and October 31 to complete Hacktoberfest</li>
-
-<li>The first 40,000 participants (maintainers and contributors) who complete Hacktoberfest can elect to receive one of two prizes: a tree planted in their name, or the Hacktoberfest 2022 t-shirt.</li>
- 
-</ol>
-
-<h3 align="center">__For your PR to count it must be__</h3>
-
-<ul>
-  <li>Submitted in a public repo, AND the PR is labelled as hacktoberfest-accepted by a maintainer. or</li>
-
-  <li>Submitted in a repo labelled hacktoberfest , AND Merged, OR Approved</li>
-</ul>
-
-<p>You can opt not to receive a t-shirt and stickers and you can choose to have a tree planted in your name and help make Hacktoberfest 2021 more carbon neutral.
-Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge.
-
-<h3 align="center">__Rules To Contribute To This Repo__</h3>
-<ol>
-<li>While adding any content it should be inside its appropiate directory.</li>
-<li>if there is any problem with inaccurate solution create an issue!</li>
- </ol>
-
-<h4 align="left">Steps For Contribution</h4>
-
-1. Fork this repo
-2. Star this repo
-3. Add a file inside appropriate folder 
-4. commit the code
-5. Make pull request
-</p>
-
-<h3 align="center">Prerequisites</h3>
 
 <h4 align="left" >You should have a basic to intermediate understanding of the following:</h4>
 <ul>
