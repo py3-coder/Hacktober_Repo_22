@@ -44,7 +44,7 @@
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
 - Add your profile image in `Meta_Data/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `Meta_Data/participant/`
+- Add your profile data in `CONTRIBUTING.md` & `Meta_Data/participant/`
 - Make contributions to the `Main` Directory contributions done to the `Specified-Domain` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
@@ -67,7 +67,15 @@ Meta_Data/images/<YOUR-USERNAME>.png
 
 
 ## STEP-2. Add your profile information
-
+You  Need to add you complete Data in `CONTRIBUTING.md`.
+```
+NAME : Your Full Name
+LINKEDIN : LinkedIn Profile Link
+TWITTER : Twitter Profile Link
+GITHUB : Github handle Link
+DOMAIN : YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||ANDROID -----
+PR's COMPLETED : Number of PR's that are merged into these open source projects that are part of Hacktober Fest 2021
+```
 Create a markdown file in your folder following the convention `Meta_Data/participant/<YOUR-USERNAME>.md`. 
 Ex.
 
@@ -99,16 +107,6 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
 '''
 ```
 
-
-<h4 align="left" >You should have a basic to intermediate understanding of the following:</h4>
-<ul>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Forking a repository</li>
-  <li>Creating a pull request</li>
-</ul>
-
-
 ![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
 
-## @Author : Saurabh Kumar
+### Author : Saurabh Kumar
