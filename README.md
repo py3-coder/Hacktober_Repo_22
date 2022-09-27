@@ -1,6 +1,10 @@
 
 # Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
-![Hacktoberfest 2022](https://user-images.githubusercontent.com/54509629/192445552-f8a25296-d0c7-497e-b81f-c37a910d4d83.png)
+
+
+<p align="center">
+  <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/static/hacktober.jpg">
+</p>
 
 
 
