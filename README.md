@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=py3-coder/Hacktoberfest2022_py3-coder" />
+<a href="https://github.com/py3-coder/Hacktober_Repo_22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=py3-coder/Hacktober_Repo_22" />
 </a>
   
 </div>
@@ -24,9 +24,9 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/py3-coder" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/pulls"><img src="https://img.shields.io/github/issues-pr/py3-coder/Hacktoberfest2022_py3-coder" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/py3-coder/Hacktoberfest2022_py3-coder?color=2b9348"></a>
-<a href="https://github.com/py3-coder/Hacktoberfest2022_py3-coder/blob/master/LICENSE"></a>
+<a href="https://github.com/py3-coder/Hacktober_Repo_22/pulls"><img src="https://img.shields.io/github/issues-pr/py3-coder/Hacktober_Repo_22" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/py3-coder/Hacktober_Repo_22/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/py3-coder/Hacktober_Repo_22?color=2b9348"></a>
+<a href="https://github.com/py3-coder/Hacktober_Repo_22/blob/master/LICENSE"></a>
 
 </div>
 
