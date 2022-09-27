@@ -1,14 +1,15 @@
 
 # Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
-![Hacktoberfest 2021](static/logo.png)
+![Hacktoberfest 2021]()
 
 ## Contributors of `Hacktoberfest 2022`
 
 <div align="center">
 
-<a href="https://github.com/py3-coder/Hacktober_Repo_22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=py3-coder/Hacktober_Repo_22" />
+<a href = "https://github.com/py3-coder/Hacktober_Repo_22/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = py3-coder/Hacktober_Repo_22"/>
 </a>
+
   
 </div>
 
