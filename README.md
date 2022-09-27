@@ -50,7 +50,7 @@
 - Create a pull request
 - Star this repository
 
-NOTE : Contributions done to the `Main` folder only will be counted towards the Hacktoberfest 2022
+NOTE : Contributions done to the `Correct Directory`  will be considered towards the Hacktoberfest 2022
 
 # How to make your first Pull Request
 ### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
@@ -107,6 +107,7 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
   <li>Forking a repository</li>
   <li>Creating a pull request</li>
 </ul>
+
 
 ![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
 
