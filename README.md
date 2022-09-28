@@ -6,7 +6,7 @@
   <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
 </p>
 
-###  If u not star this repo will automatically assign with star_validation labels in pull request and automatically not merge!
+###  `If u not star this repo will automatically assign with star_validation labels in pull request and automatically not merge!`
 ## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
 
 
