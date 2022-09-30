@@ -31,10 +31,17 @@ DOMAIN: Data Science <br>
 
 ------
 
-Start Appending your Details below : <br>
+-----
 NAME : Abhijeet Kumar Ghosh<br>
 GITHUB : abhijeet49<br>
 INSTITUTE/COMPANY : Galgotias University<br>
 DOMAIN/LANGUGAE : Android Development/JAVA<br>
+-----
 
+-----
+NAME : Saurabh Kumar<br>
+GITHUB : github.com/runtime-error2905<br>
+INSTITUTE/COMPANY : Galgotias College <br>
+DOMAIN/LANGUGAE : JAVA<br>
+-----
 
