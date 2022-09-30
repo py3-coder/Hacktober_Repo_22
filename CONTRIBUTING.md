@@ -40,7 +40,7 @@ DOMAIN/LANGUGAE : Android Development/JAVA<br>
 ---------
 NAME : Ishita Biswas
 GITHUB : ishistarx
-INSTITUTE/COMPANY : College Name/Comapny Name : IEM
+INSTITUTE/COMPANY : IEM
 DOMAIN/LANGUGAE : Python
 ----------
 
