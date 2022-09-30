@@ -62,11 +62,10 @@ Contributions done to the `Correct Directory`  will only considered for Hacktobe
 You  Need to add you complete Data in `CONTRIBUTING.md`.
 Copy the template and add the data as Mentioned above.
 ```
-NAME : Your Full Name
-GITHUB : Github handle Link
-INSTITUTE/COMPANY : College Name/Comapny Name
-DOMAIN : YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||ANDROID -----
-
+NAME :  <br>
+GITHUB :  <br>
+INSTITUTE/COMPANY : College Name/Comapny Name <br>
+DOMAIN/LANGUGAE : <br>
 ```
 
 ## STEP-3. Wait for Pull Request to merge
