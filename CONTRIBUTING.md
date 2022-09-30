@@ -37,10 +37,19 @@ INSTITUTE/COMPANY : Galgotias University<br>
 DOMAIN/LANGUGAE : Android Development/JAVA<br>
 -----
 
+---------
+NAME : Ishita Biswas
+GITHUB : ishistarx
+INSTITUTE/COMPANY : College Name/Comapny Name : IEM
+DOMAIN/LANGUGAE : Python
+----------
+
 -----
 NAME : Saurabh Kumar<br>
 GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 -----
+
+
 
