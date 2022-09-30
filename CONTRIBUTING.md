@@ -21,7 +21,7 @@ DOMAIN/LANGUGAE : <br>
 
 ------
 
-Sample Data How after appending the data it looks like :
+Sample Data after appending the data it looks like :
 -----
 
 NAME :  Saurabh Kumar <br>
