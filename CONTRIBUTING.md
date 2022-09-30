@@ -22,13 +22,12 @@ DOMAIN/LANGUGAE : <br>
 ------
 
 Sample Data after appending the data it looks like :
------
 
+-----
 NAME :  Saurabh Kumar <br>
 GITHUB :  github.com/py3-coder <br>
 INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
-
 ------
 
 -----
