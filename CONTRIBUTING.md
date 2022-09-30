@@ -21,7 +21,7 @@ DOMAIN/LANGUGAE : <br>
 
 ------
 
-Sample Data How after appending the data it looks like :
+Sample Data after appending the data it looks like :
 -----
 
 NAME :  Saurabh Kumar <br>
@@ -31,4 +31,10 @@ DOMAIN: Data Science <br>
 
 ------
 
-Start Appending your Details below : 
+Start Appending your Details below : <br>
+NAME : Abhijeet Kumar Ghosh<br>
+GITHUB : abhijeet49<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : Android Development/JAVA<br>
+
+
