@@ -37,4 +37,9 @@ GITHUB : abhijeet49<br>
 INSTITUTE/COMPANY : Galgotias University<br>
 DOMAIN/LANGUGAE : Android Development/JAVA<br>
 
+NAME : Ishita Biswas
+GITHUB : ishistarx
+INSTITUTE/COMPANY : College Name/Comapny Name : IEM
+DOMAIN/LANGUGAE : Python
+
 
