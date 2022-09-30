@@ -31,10 +31,10 @@ DOMAIN: Data Science <br>
 
 ------
 
-Start Appending your Details below : 
-NAME : Abhijeet Kumar Ghosh
-GITHUB : abhijeet49
-INSTITUTE/COMPANY : Galgotias University
-DOMAIN/LANGUGAE : Android Development/JAVA
+Start Appending your Details below : <br>
+NAME : Abhijeet Kumar Ghosh<br>
+GITHUB : abhijeet49<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : Android Development/JAVA<br>
 
 
