@@ -51,5 +51,11 @@ INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 -----
 
+NAME :  Amit Kumar<br>
+GITHUB :  SideWinder1999<br>
+INSTITUTE/COMPANY : GLA University<br>
+DOMAIN/LANGUGAE : JAVA<br>
+
+
 
 
