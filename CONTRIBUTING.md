@@ -22,24 +22,34 @@ DOMAIN/LANGUGAE : <br>
 ------
 
 Sample Data after appending the data it looks like :
------
 
+-----
 NAME :  Saurabh Kumar <br>
 GITHUB :  github.com/py3-coder <br>
 INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
-
 ------
 
-Start Appending your Details below : <br>
+-----
 NAME : Abhijeet Kumar Ghosh<br>
 GITHUB : abhijeet49<br>
 INSTITUTE/COMPANY : Galgotias University<br>
 DOMAIN/LANGUGAE : Android Development/JAVA<br>
+-----
 
+---------
 NAME : Ishita Biswas
 GITHUB : ishistarx
 INSTITUTE/COMPANY : College Name/Comapny Name : IEM
 DOMAIN/LANGUGAE : Python
+----------
+
+-----
+NAME : Saurabh Kumar<br>
+GITHUB : github.com/runtime-error2905<br>
+INSTITUTE/COMPANY : Galgotias College <br>
+DOMAIN/LANGUGAE : JAVA<br>
+-----
+
 
 
