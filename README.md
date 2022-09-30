@@ -44,59 +44,34 @@
 - Fork this Repository to your GITHUB using the button at the top
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` and `git checkout -b new-user`)
-- Add your profile image in `Meta_Data/images/` ( use drag and drop option or upload by commands.)
-- Add your profile data in `CONTRIBUTING.md` & `Meta_Data/participant/`
-- Make contributions to the `Main` Directory contributions done to the `Specified-Domain` folder only will be counted towards the Hacktoberfest 2022
+- Add your profile data in `CONTRIBUTING.md` .
+- Make contributions to the `Specified-Domain/language` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
 - Create a pull request
-- Star this repository
+- Star this `repository`
 
 NOTE : Contributions done to the `Correct Directory`  will be considered towards the Hacktoberfest 2022
 
 # How to make your first Pull Request
 ### Please note - `Pull Requests` of only those `contributors` will be `Merged` who will follow all the below mentioned steps
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
-
-## STEP-1. Add your profile picture to the folder
-
-Add a picture picture of your choice in `Meta_Data/images/`. Accepted files are **png** and **jpg**, should be squared and minimum size 544x544 pixels. Ex.
-
-```
-Meta_Data/images/<YOUR-USERNAME>.png
-```
-
+## STEP-1. Add you Project or Program Source file to correct folder.
+Contributions done to the `Correct Directory`  will only considered for Hacktoberfest 2022.
 
 ## STEP-2. Add your profile information
 You  Need to add you complete Data in `CONTRIBUTING.md`.
+Copy the template and add the data as Mentioned above.
 ```
 NAME : Your Full Name
-LINKEDIN : LinkedIn Profile Link
-TWITTER : Twitter Profile Link
 GITHUB : Github handle Link
+INSTITUTE/COMPANY : College Name/Comapny Name
 DOMAIN : YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||ANDROID -----
-PR's COMPLETED : Number of PR's that are merged into these open source projects that are part of Hacktober Fest 2021
-```
-Create a markdown file in your folder following the convention `Meta_Data/participant/<YOUR-USERNAME>.md`. 
-Ex.
 
 ```
-Mata_Data/participant/<YOUR-USERNAME>.md/
-```
 
-## STEP-3. Copy the next template into your file, delete the boilerplate data and fill the information with yours.
+## STEP-3. Wait for Pull Request to merge
 
-```
----
-name: YOURNAME
-institution/company: INSTITUTION_NAME
-github:USERNAME
----
-```
-
-## STEP-4. Wait for Pull Request to merge
-
-## STEP-5. Celebrate - you've done your first pull request!!
+## STEP-4. Celebrate - you've done your first pull request!!
 
 ```
 '''
