@@ -56,6 +56,13 @@ GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
 
+-----
+
+NAME :  Jonry Simbolon<br>
+GITHUB :  jonrysimbolon<br>
+INSTITUTE/COMPANY : none<br>
+DOMAIN/LANGUGAE : Android/KOTLIN<br>
+
 
 
 
