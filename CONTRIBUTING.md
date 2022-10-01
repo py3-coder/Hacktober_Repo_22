@@ -86,3 +86,10 @@ INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
 DOMAIN: IT
 --------
 
+-------------
+NAME :  Ravi Gupta<br>
+GITHUB :  guptaravi540<br>
+INSTITUTE/COMPANY : University of Delhi<br>
+DOMAIN/LANGUGAE : CPP<br>
+
+-------------
