@@ -29,6 +29,12 @@ GITHUB :  github.com/py3-coder <br>
 INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
 ------
+-----
+NAME :  Abhinab Pratap Singh Chauhan <br>
+GITHUB :  github.com/generalchauhan <br>
+INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
+DOMAIN: Frontend Dev <br>
+------
 
 -----
 NAME : Abhijeet Kumar Ghosh<br>
@@ -38,10 +44,10 @@ DOMAIN/LANGUGAE : Android Development/JAVA<br>
 -----
 
 ---------
-NAME : Ishita Biswas
-GITHUB : ishistarx
-INSTITUTE/COMPANY : IEM
-DOMAIN/LANGUGAE : Python
+NAME : Ishita Biswas <br>
+GITHUB : ishistarx <br>
+INSTITUTE/COMPANY : IEM <br>
+DOMAIN/LANGUGAE : Python <br>
 ----------
 
 -----
@@ -126,4 +132,46 @@ NAME :  Rohan Kumar Mohanty <br>
 GITHUB :  https://github.com/mohantyrohan3 <br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
 DOMAIN/LANGUGAE : Data Science <br>
+-----------
+
+-----------
+NAME :  Harshitha Reddy <br>
+GITHUB :  github.com/Harshithardd <br>
+INSTITUTE/COMPANY : CMR Institute of Technology <br>
+DOMAIN/LANGUGAE : CPP <br>
+-----------
+
+-----------
+NAME : Kazim Sayed  <br>
+GITHUB : kazimsayed954  <br>
+INSTITUTE/COMPANY : NeoSOFT <br>
+DOMAIN/LANGUGAE : Android, ML <br>
+-----------
+
+--------------
+NAME : Ritik kumar <br>
+GITHUB : https://github.com/ritik1123 <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN/LANGUGAE : Web Development/C++ <br>
+-----------
+
+-----------
+NAME :  Lakshay Tyagi <br>
+GITHUB :  [imlakshay08](https://github.com/imlakshay08) <br>
+INSTITUTE/COMPANY : Maharshi Dayanand University <br>
+DOMAIN: Java <br>
+-----------
+
+-----------
+NAME :  Avid Coder<br>
+GITHUB :  github.com/qyu4x<br>
+INSTITUTE/COMPANY : NULL<br>
+DOMAIN/LANGUGAE : JS<br>
+-----------
+
+-----------
+NAME :  Tanmoy Sengupta<br>
+GITHUB :  github.com/TSG405<br>
+INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
+DOMAIN/LANGUGAE : Python<br>
 -----------
