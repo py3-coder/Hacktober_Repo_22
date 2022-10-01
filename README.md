@@ -62,10 +62,12 @@ Contributions done to the `Correct Directory`  will only considered for Hacktobe
 You  Need to add you complete Data in `CONTRIBUTING.md`.
 Copy the template and add the data as [here](https://github.com/py3-coder/Hacktober_Repo_22/blob/main/CONTRIBUTING.md).
 ```
+-----------
 NAME :  <br>
 GITHUB :  <br>
 INSTITUTE/COMPANY : College Name/Comapny Name <br>
 DOMAIN/LANGUGAE : <br>
+-----------
 ```
 
 ## STEP-3. Wait for Pull Request to merge

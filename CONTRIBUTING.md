@@ -51,22 +51,51 @@ INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 -----
 
+-----------
 NAME :  Amit Kumar<br>
 GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
+-------------
 
------
+--------------
+NAME :  Shobhit Bhatt<br>
+GITHUB : [@shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)<br>
+INSTITUTE/COMPANY : Perplexed<br>
+DOMAIN/LANGUGAE : JAVA<br>
+-------------
 
+-------------
 NAME :  Jonry Simbolon<br>
 GITHUB :  jonrysimbolon<br>
 INSTITUTE/COMPANY : none<br>
 DOMAIN/LANGUGAE : Android/KOTLIN<br>
------
+-----------
 
-NAME :  Vedant Joly<br>
-GITHUB :  BassCoder2808<br>
-INSTITUTE/COMPANY : Sardar Patel Institute of Technology<br>
-DOMAIN/LANGUGAE : Python<br>
+-------------
+NAME :  Pratik Dwivedi<br>
+GITHUB :  Dekode1859<br>
+INSTITUTE/COMPANY : Bennett University<br>
+DOMAIN/LANGUGAE : PYTHON/Machine Learning<br>
+-----------
 
+-------
+NAME : NITISH KUMAR MAURYA <br>
+GITHUB : github.com/MauryaNitish65/
+INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
+DOMAIN: IT
+--------
 
+-------------
+NAME : DHRUV PATIDAR <br>
+GITHUB : https://github.com/dhruvpatidar359 <br>
+INSTITUTE/COMPANY : SGSITS Indore <br>
+DOMAIN/LANGUGAE : Java <br>
+-----------
+
+--------
+NAME : Sujith Kumar Dola <br>
+GITHUB : github.com/sujithkumardola <br>
+INSTITUTE/COMPANY : NULL <br>
+DOMAIN/LANGUGAE : Python <br>
+--------
