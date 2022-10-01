@@ -81,9 +81,9 @@ DOMAIN/LANGUGAE : PYTHON/Machine Learning<br>
 
 -------
 NAME : NITISH KUMAR MAURYA <br>
-GITHUB : github.com/MauryaNitish65/
-INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
-DOMAIN: IT
+GITHUB : github.com/MauryaNitish65/<br>
+INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY<br>
+DOMAIN: IT<br>
 --------
 
 -------------
@@ -98,6 +98,20 @@ NAME : Sujith Kumar Dola <br>
 GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
+--------
+
+-------------
+NAME : Vedant Jolly <br>
+GITHUB : https://github.com/BassCoder2808 <br>
+INSTITUTE/COMPANY : Sardar Patel Institute of Technology <br>
+DOMAIN/LANGUGAE : Python <br>
+-----------
+
+--------
+NAME : Jeremie Daniel <br>
+GITHUB : github.com/jeremie1112 <br>
+INSTITUTE/COMPANY : GroupeHisi <br>
+DOMAIN/LANGUGAE : C <br>
 --------
 
 -----------

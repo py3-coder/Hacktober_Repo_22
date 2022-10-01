@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Posture Correction</title>
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='profile_pics/main_cam.ico') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='src/css/style.css') }}">
+  </head>
+  <body onload="main()">
+    <div id="full-page-loader">
+      <div class="lds-ellipsis">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <div id="warnings">
+      <div id="warning-text">
+        <p><b>This webpage wants to access your camera &#128247; Grant your Permission!</b></p>
+        <p><b>Make sure your webcam is well poised and there's enough lighting on your face!!</b></p>
+        <button id="warning-button" onclick="start()">Permission Granted!!</button>
+      </div>
+    </div>
+    <canvas id="canvas" class="canvas" width="400" height="200" style="border:1px solid #000000; margin-left: 40%; margin-top: 1%;" ></canvas>
+    <div id="message">
+      <p>Screen Eye Distance: <span id="se_distance"></span></p>
+      <p>Head UP/Down: <span id="x_rotate"></span></p>
+      <p>Head Left/Right Turn: <span id="y_rotate"></span></p>
+      <p>Head Left/Right Bend towards shoulder: <span id="z_rotate"></span></p>
+    </div>
+    <audio controls id="myAudio" hidden="true">
+      <source src="{{ url_for('static',filename='src/js/CantinaBand60.wav') }}" type="audio/wav">
+      Your browser does not support the audio tag.
+    </audio>
+    <!-- <a href="{{url_for('analyze_posture')}}" class="btn">Hello</a> -->
+    <!-- <button id="warning-button"><a href="{{url_for('analyze_posture')}}">Analyzie my position</a></button> -->
+    <form method="POST" action="/inspect">
+        <input type="text" id="l1" name="fname1" hidden="true" value="0"><br>
+        <input type="text" id="l2" name="fname2" hidden="true" value="0"><br>
+        <input type="text" id="l3" name="fname3" hidden="true" value="0"><br>
+        <input type="text" id="l4" name="fname4" hidden="true" value="0"><br>
+        <button id="warning-button" type="submit">Analyze my Session</button>
+    </form>
+    <script src="{{ url_for('static',filename='src/js/jeelizFaceTransfer.js') }}"></script>
+    <script src="{{ url_for('static',filename='src/js/posture.js') }}"></script>
+    <script src="{{ url_for('static',filename='src/js/audio.js') }}"></script>
+    <script src="{{ url_for('static',filename='src/js/main.js') }}"></script>
+  </body>
+</html>
