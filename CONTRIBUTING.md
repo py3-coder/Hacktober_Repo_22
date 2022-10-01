@@ -33,6 +33,15 @@ DOMAIN: Data Science <br>
 -----
 NAME : Abhijeet Kumar Ghosh<br>
 GITHUB : abhijeet49<br>
+
+-----
+
+NAME :  Nitish Kumar Maurya<br>
+GITHUB :  github.com/MauryaNitish65/<br>
+INSTITUTE/COMPANY : Haldia Institue Of Technology <br>
+DOMAIN : IT<br>
+
+------
 INSTITUTE/COMPANY : Galgotias University<br>
 DOMAIN/LANGUGAE : Android Development/JAVA<br>
 -----
