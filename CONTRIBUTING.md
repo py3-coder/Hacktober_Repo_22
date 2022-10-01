@@ -51,17 +51,26 @@ INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 -----
 
+-----------
 NAME :  Amit Kumar<br>
 GITHUB :  SideWinder1999<br>
 INSTITUTE/COMPANY : GLA University<br>
 DOMAIN/LANGUGAE : JAVA<br>
+-------------
 
------
+--------------
+NAME :  Shobhit Bhatt<br>
+GITHUB : [@shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)<br>
+INSTITUTE/COMPANY : Perplexed<br>
+DOMAIN/LANGUGAE : JAVA<br>
+-------------
 
+-------------
 NAME :  Jonry Simbolon<br>
 GITHUB :  jonrysimbolon<br>
 INSTITUTE/COMPANY : none<br>
 DOMAIN/LANGUGAE : Android/KOTLIN<br>
+-----------
 
 
 
