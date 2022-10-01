@@ -183,3 +183,8 @@ GITHUB :  github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
 DOMAIN/LANGUGAE : Python<br>
 -----------
+
+NAME :  KISLAY KUNAL<br>
+GITHUB : https://github.com/kislaykunal<br>
+INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
+DOMAIN/LANGUGAE : C++<br>
