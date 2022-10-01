@@ -113,3 +113,10 @@ GITHUB : github.com/jeremie1112 <br>
 INSTITUTE/COMPANY : GroupeHisi <br>
 DOMAIN/LANGUGAE : C <br>
 --------
+
+-----------
+NAME :  Ariq Khoiri<br>
+GITHUB :  github.com/qyu4x<br>
+INSTITUTE/COMPANY : Dian Nuswantoro University <br>
+DOMAIN/LANGUGAE : Java<br>
+-----------
