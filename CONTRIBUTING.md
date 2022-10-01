@@ -120,6 +120,7 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+
 --------------
 NAME : Ritik kumar <br>
 GITHUB : https://github.com/ritik1123 <br>
@@ -139,3 +140,10 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : NULL<br>
 DOMAIN/LANGUGAE : JS<br>
 ------------
+
+-----------
+NAME :  Tanmoy Sengupta<br>
+GITHUB :  github.com/TSG405<br>
+INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
