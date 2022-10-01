@@ -120,3 +120,8 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+NAME : Ritik kumar <br>
+GITHUB : https://github.com/ritik1123 <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN/LANGUGAE : Web Development/C++ <br>
+-----------
