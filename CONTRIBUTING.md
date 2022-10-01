@@ -99,10 +99,3 @@ GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
-
---------
-NAME : Ripu Raj <br>
-GITHUB : [codecode12345](https://github.com/codecode12345) <br>
-INSTITUTE/COMPANY : IIIT LUCKNOW <br>
-DOMAIN/LANGUGAE : JAVA <br>
---------
