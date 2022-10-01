@@ -19,6 +19,14 @@ GITHUB :  <br>
 INSTITUTE/COMPANY : College Name/Comapny Name <br>
 DOMAIN/LANGUGAE : <br>
 
+
+-----
+
+NAME : [Akshat Mittal](https://akshatmittal61.vercel.app/)<br>
+GITHUB : [akshatmittal61](https://github.com/akshatmittal61)<br>
+INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
+DOMAIN/LANGUGAE : JavaScript<br>
+
 ------
 
 Sample Data after appending the data it looks like :
