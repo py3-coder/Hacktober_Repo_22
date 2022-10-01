@@ -121,9 +121,38 @@ INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
 
+
 -----------
 NAME : Kazim Sayed  <br>
 GITHUB : kazimsayed954  <br>
 INSTITUTE/COMPANY : NeoSOFT <br>
 DOMAIN/LANGUGAE : Android, ML <br>
 -----------
+
+--------------
+NAME : Ritik kumar <br>
+GITHUB : https://github.com/ritik1123 <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN/LANGUGAE : Web Development/C++ <br>
+-----------
+
+-----------
+NAME :  Lakshay Tyagi <br>
+GITHUB :  [imlakshay08](https://github.com/imlakshay08) <br>
+INSTITUTE/COMPANY : Maharshi Dayanand University <br>
+DOMAIN: Java <br>
+-----------
+-----------
+NAME :  Avid Coder<br>
+GITHUB :  github.com/qyu4x<br>
+INSTITUTE/COMPANY : NULL<br>
+DOMAIN/LANGUGAE : JS<br>
+-----------
+
+-----------
+NAME :  Tanmoy Sengupta<br>
+GITHUB :  github.com/TSG405<br>
+INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
+
