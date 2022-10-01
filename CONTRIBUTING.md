@@ -85,8 +85,17 @@ GITHUB : github.com/MauryaNitish65/
 INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
 DOMAIN: IT
 --------
+
+-------------
 NAME : DHRUV PATIDAR <br>
 GITHUB : https://github.com/dhruvpatidar359 <br>
 INSTITUTE/COMPANY : SGSITS Indore <br>
 DOMAIN/LANGUGAE : Java <br>
 -----------
+
+--------
+NAME : Sujith Kumar Dola <br>
+GITHUB : github.com/sujithkumardola <br>
+INSTITUTE/COMPANY : NULL <br>
+DOMAIN/LANGUGAE : Python <br>
+--------
