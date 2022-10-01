@@ -86,3 +86,9 @@ INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
 DOMAIN: IT
 --------
 
+--------
+NAME : Sujith Kumar Dola <br>
+GITHUB : github.com/sujithkumardola <br>
+INSTITUTE/COMPANY : NULL <br>
+DOMAIN/LANGUGAE : Python <br>
+--------
