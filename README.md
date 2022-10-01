@@ -6,7 +6,7 @@
   <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
 </p>
 
-# `You Nedd ⭐ star this repo before you generate PR!📌`
+# `You Need ⭐ star this repo before you generate PR!📌`
 ## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
 
 
