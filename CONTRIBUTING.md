@@ -79,7 +79,10 @@ INSTITUTE/COMPANY : Bennett University<br>
 DOMAIN/LANGUGAE : PYTHON/Machine Learning<br>
 -----------
 
-
-
-
+-------
+NAME : NITISH KUMAR MAURYA <br>
+GITHUB : github.com/MauryaNitish65/
+INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
+DOMAIN: IT
+--------
 
