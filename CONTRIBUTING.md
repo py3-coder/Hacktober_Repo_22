@@ -81,9 +81,9 @@ DOMAIN/LANGUGAE : PYTHON/Machine Learning<br>
 
 -------
 NAME : NITISH KUMAR MAURYA <br>
-GITHUB : github.com/MauryaNitish65/
-INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
-DOMAIN: IT
+GITHUB : github.com/MauryaNitish65/<br>
+INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY<br>
+DOMAIN: IT<br>
 --------
 
 -------------
