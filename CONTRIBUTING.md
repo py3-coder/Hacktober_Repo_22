@@ -128,6 +128,13 @@ DOMAIN/LANGUGAE : Java<br>
 -----------
 
 -----------
+NAME :  Rohan Kumar Mohanty <br>
+GITHUB :  https://github.com/mohantyrohan3 <br>
+INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
+DOMAIN/LANGUGAE : Data Science <br>
+-----------
+
+-----------
 NAME :  Harshitha Reddy <br>
 GITHUB :  github.com/Harshithardd <br>
 INSTITUTE/COMPANY : CMR Institute of Technology <br>
@@ -168,4 +175,3 @@ GITHUB :  github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
 DOMAIN/LANGUGAE : Python<br>
 -----------
-
