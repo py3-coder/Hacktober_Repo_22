@@ -100,10 +100,16 @@ INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
 
+-------------
+NAME : Vedant Jolly <br>
+GITHUB : https://github.com/BassCoder2808 <br>
+INSTITUTE/COMPANY : Sardar Patel Institute of Technology <br>
+DOMAIN/LANGUGAE : Python <br>
+-----------
+
 --------
 NAME : Jeremie Daniel <br>
 GITHUB : github.com/jeremie1112 <br>
 INSTITUTE/COMPANY : GroupeHisi <br>
 DOMAIN/LANGUGAE : C <br>
 --------
-

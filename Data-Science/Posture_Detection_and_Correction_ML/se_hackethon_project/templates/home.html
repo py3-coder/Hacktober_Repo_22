@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>About Us</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='home.css') }}">
+        <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='profile_pics/main_cam.ico') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='main.css') }}">
+    </head>
+    <body>
+            <header>
+                <h1>FIX<span>YOURSELF</span></h1>
+                <nav>
+                    <ul>
+                        <li><a href="{{url_for('home')}}">Home</a></li>
+                    </ul>
+                    {% if current_user.is_authenticated %}
+                        <ul>
+                            <li>
+                                <a href="{{ url_for('account') }}">Profile</a>
+                            </li>
+                            <li>
+                                <a href="{{ url_for('all_posts') }}">Get Inspired</a>
+                            </li>
+                            <li>
+                                <a href="{{ url_for('new_post') }}">Create a post</a>
+                            </li>
+                            <li>
+                                <a href="{{ url_for('logout') }}">LogOut</a>
+                            </li>
+                        </ul>
+                    {% else %}
+                        <ul>
+                            <li>
+                                <a href="{{ url_for('login') }}">LogIn</a>
+                            </li>
+                            <li>
+                                <a href="{{ url_for('register') }}">Register</a>
+                            </li>
+                        </ul>
+                    {% endif %}
+                </nav>
+            </header>
+            
+            <section>
+
+            <div class = "image">
+                
+            </div>
+
+            <div class = "content">
+                <h2>About Us</h2>
+                <span></span>
+
+                <p>Our product helps the user to check if they are positioned in the correct posture or not.
+                    It is important to be aware of the fact that pose estimation merely estimates where key body joints are and does not recognize who is in an image or video.
+                    Performance varies based on your device and output stride (heatmaps and offset vectors). </p>
+
+                <ul class = "links">
+                    <li><a href = "{{ url_for('detect_posture') }}">Try Our Website!!!</a></li>
+
+                    <div class = "vertical-line"></div>
+                    
+                    <li><a href = "{{ url_for('suggestions') }}">Contact Us</a></li>
+                </ul>
+
+                <ul class = "icons">
+                    <li>
+                        <i class = "fa fa-twitter"></i>
+                    </li>
+                    <li>
+                        <i class = "fa fa-facebook"></i>
+                    </li>
+                    <li>
+                        <i class = "fa fa-github"></i>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <main role="main" class="container">
+            <div class="row">
+                <div class="col-md-8">
+                {% with messages=get_flashed_messages(with_categories=true) %}
+                    {% if messages %}
+                    {% for category,message in messages %}
+                        <div class="alert alert-{{category}}">
+                        {{message}}
+                        </div>
+                    {% endfor %}
+                    {% endif %}
+                {% endwith %}
+                {% block content %}{% endblock %}
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
