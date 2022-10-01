@@ -62,7 +62,11 @@ NAME :  Jonry Simbolon<br>
 GITHUB :  jonrysimbolon<br>
 INSTITUTE/COMPANY : none<br>
 DOMAIN/LANGUGAE : Android/KOTLIN<br>
+-----
 
-
+NAME :  Vedant Joly<br>
+GITHUB :  BassCoder2808<br>
+INSTITUTE/COMPANY : Sardar Patel Institute of Technology<br>
+DOMAIN/LANGUGAE : Python<br>
 
 
