@@ -1,3 +1,7 @@
+#NAME : NITISH KUMAR MAURYA
+#GITHUB : github.com/MauryaNitish65/
+#INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
+#DOMAIN: IT
 #binary search
 def binarySearch(list1,l,h,k):
     if(l<=h):
