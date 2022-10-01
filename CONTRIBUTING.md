@@ -29,6 +29,12 @@ GITHUB :  github.com/py3-coder <br>
 INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
 ------
+-----
+NAME :  Abhinab Pratap Singh Chauhan <br>
+GITHUB :  github.com/generalchauhan <br>
+INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
+DOMAIN: Frontend Dev <br>
+------
 
 -----
 NAME : Abhijeet Kumar Ghosh<br>
