@@ -99,3 +99,10 @@ GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
+
+-----------
+NAME :  Ariq Khoiri<br>
+GITHUB :  github.com/qyu4x<br>
+INSTITUTE/COMPANY : Dian Nuswantoro University <br>
+DOMAIN/LANGUGAE : Java<br>
+-----------
