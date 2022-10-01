@@ -72,6 +72,12 @@ INSTITUTE/COMPANY : none<br>
 DOMAIN/LANGUGAE : Android/KOTLIN<br>
 -----------
 
+-----
 
+NAME : NITISH KUMAR MAURYA <br>
+GITHUB : github.com/MauryaNitish65/
+INSTITUTE/COMPANY : HALDIA INSTITUTE OF TECHNOLOGY
+DOMAIN: IT
 
+-----
 
