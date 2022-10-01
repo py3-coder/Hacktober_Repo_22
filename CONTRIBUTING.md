@@ -120,3 +120,10 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+
+-----------
+NAME : Kazim Sayed  <br>
+GITHUB : kazimsayed954  <br>
+INSTITUTE/COMPANY : NeoSOFT <br>
+DOMAIN/LANGUGAE : Android, ML <br>
+-----------
