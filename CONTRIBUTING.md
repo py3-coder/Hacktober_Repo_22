@@ -99,3 +99,8 @@ GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
+NAME : Vedant Jolly <br>
+GITHUB : https://github.com/BassCoder2808 <br>
+INSTITUTE/COMPANY : Sardar Patel Institute of Technology <br>
+DOMAIN/LANGUGAE : Python <br>
+-----------
