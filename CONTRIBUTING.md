@@ -38,10 +38,10 @@ DOMAIN/LANGUGAE : Android Development/JAVA<br>
 -----
 
 ---------
-NAME : Ishita Biswas
-GITHUB : ishistarx
-INSTITUTE/COMPANY : IEM
-DOMAIN/LANGUGAE : Python
+NAME : Ishita Biswas <br>
+GITHUB : ishistarx <br>
+INSTITUTE/COMPANY : IEM <br>
+DOMAIN/LANGUGAE : Python <br>
 ----------
 
 -----
