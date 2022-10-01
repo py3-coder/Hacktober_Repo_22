@@ -120,3 +120,11 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+
+--------
+NAME : Dhruva Bhattacharya <br>
+GITHUB : github.com/dhruvaop <br>
+INSTITUTE/COMPANY : GGITS <br>
+DOMAIN/LANGUGAE : C++, Python, C# <br>
+--------
+
