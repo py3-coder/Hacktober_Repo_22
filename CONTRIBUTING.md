@@ -120,7 +120,16 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+
+-----------
+NAME :  Lakshay Tyagi <br>
+GITHUB :  [imlakshay08](https://github.com/imlakshay08) <br>
+INSTITUTE/COMPANY : Maharshi Dayanand University <br>
+DOMAIN: Java <br>
+-----------
+--------------
 NAME :  Avid Coder<br>
 GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : NULL<br>
 DOMAIN/LANGUGAE : JS<br>
+------------
