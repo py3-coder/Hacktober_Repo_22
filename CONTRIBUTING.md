@@ -99,3 +99,11 @@ GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
+
+--------
+NAME : Jeremie Daniel <br>
+GITHUB : github.com/jeremie1112 <br>
+INSTITUTE/COMPANY : GroupeHisi <br>
+DOMAIN/LANGUGAE : C <br>
+--------
+
