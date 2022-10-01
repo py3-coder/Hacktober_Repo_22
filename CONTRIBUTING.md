@@ -120,3 +120,10 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+
+-----------
+NAME :  Rohan Kumar Mohanty <br>
+GITHUB :  https://github.com/mohantyrohan3 <br>
+INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
+DOMAIN/LANGUGAE : Data Science <br>
+-----------
