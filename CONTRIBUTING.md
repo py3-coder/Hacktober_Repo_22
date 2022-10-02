@@ -242,7 +242,7 @@ DOMAIN/LANGUGAE : JavaScript<br>
 
 -------
 NAME : Franco Joe M <br>
-GITHUB : [francojoem]((https://github.com/francojoem)<br>
+GITHUB : [francojoem](https://github.com/francojoem)<br>
 INSTITUTE/COMPANY : Model Engineering College<br>
 DOMAIN/LANGUGAE : Golang<br>
 -------
