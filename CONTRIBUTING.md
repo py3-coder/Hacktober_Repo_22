@@ -60,7 +60,7 @@ DOMAIN/LANGUGAE : JAVA<br>
 
 -----
 NAME: Manan Aggarwal<br>
-GITHUB: mananaggarwal2001<br>
+GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
 INSTITUTE: JIIMS Technical Collage<br>
 DOMAIN?LANGUAGE: C++,JAVA<br>
 -----
