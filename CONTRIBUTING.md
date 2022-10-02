@@ -189,7 +189,7 @@ GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
 -----------
-NAME : [Rohit Patil]<br>
+NAME : Rohit Patil<br>
 GITHUB : [falconcode16](https://github.com/falconcode16)<br>
-INSTITUTE/COMPANY :  [KLE Technological University]<br>
+INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
