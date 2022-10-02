@@ -357,6 +357,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME : Ruthvik Kanukunta <br>
+GITHUB : [Ruthvik2127](https://github.com/Ruthvik2127)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
+
+---
+
 NAME : Garvitl<br>
 GITHUB : [GarvitV957](https://github.com/GarvitV957)<br>
 INSTITUTE/COMPANY :  IIT<br>
@@ -411,6 +420,15 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
+NAME : Mainak Dey<br>
+GITHUB : [Mainakdey1](https://github.com/Mainakdey1)<br>
+INSTITUTE/COMPANY :  Maulana Institute of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+
+---
+
+---
+
 NAME : Vaishnao Wankar <br>
 GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
 INSTITUTE/COMPANY : Sinhgad College Of Engineering<br>
@@ -424,6 +442,8 @@ NAME :  Ayush Munot <br>
 GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
 INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
+
+---
 
 ---
 
@@ -443,13 +463,12 @@ DOMAIN: Frontend Dev <br>
 
 ---
 
+---
 
------------
 NAME : Sahil Kumar<br>
 GITHUB : [sahilsujeet1](https://github.com/sahilsujeet1)<br>
 INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
---------------
 
 ---
 
@@ -461,3 +480,4 @@ DOMAIN/LANGUAGE : Python<br>
 ---
 
 
+=======
