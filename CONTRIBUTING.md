@@ -266,6 +266,14 @@ DOMAIN/LANGUGAE : C++<br>
 ---
 
 ---
+NAME :  Justin Miller<br>
+GITHUB :  github.com/jmmille<br>
+INSTITUTE/COMPANY : null<br>
+DOMAIN/LANGUAGE : Python<br>
+
+---
+
+---
 
 NAME : Rajnandan Mishra<br>
 GITHUB : https://github.com/rajmishra-47<br>
@@ -408,3 +416,4 @@ INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
 
 ---
+
