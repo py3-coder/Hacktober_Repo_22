@@ -427,3 +427,10 @@ DOMAIN: Python <br>
 
 ---
 
+NAME : Pradeep Khatri <br>
+GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
+INSTITUTE/COMPANY : - <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
+
+----------------
+
