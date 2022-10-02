@@ -282,3 +282,9 @@ INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
 DOMAIN/LANGUGAE : python<br>
 --------------
 
+-----------
+NAME : Sahil Kumar<br>
+GITHUB : [sahilsujeet1](https://github.com/sahilsujeet1)<br>
+INSTITUTE/COMPANY :  Chandigarh University<br>
+DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
+--------------
