@@ -254,3 +254,10 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----------
+
+## NAME : Shan Khan <br>GITHUB : [shansince2k3](https://github.com/Shansince2k3) <br>INSTITUTE: BU Jhansi <br>DOMAIN/LANGUGAE: Python <br>
+
+-----------
+
+
