@@ -408,3 +408,17 @@ INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
 
 ---
+
+
+
+-----
+
+NAME : Arka Majumder<br>
+
+GITHUB : [arka9088](https://github.com/arka9088)<br>
+
+INSTITUTE : Manipal University <br>
+
+LANGUAGE : Java/Python <br>
+
+------
