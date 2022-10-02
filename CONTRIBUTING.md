@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----------
+NAME : Lokesh Katari<br>
+GITHUB : [lokesh-katari](https://github.com/lokesh-katari)<br>
+INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+--------------
