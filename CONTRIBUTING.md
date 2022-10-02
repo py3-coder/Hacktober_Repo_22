@@ -240,6 +240,13 @@ INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
 DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
 
+-------
+NAME : Franco Joe M <br>
+GITHUB : [francojoem]((https://github.com/francojoem)<br>
+INSTITUTE/COMPANY : Model Engineering College<br>
+DOMAIN/LANGUGAE : Golang<br>
+-------
+
 -----------
 NAME : Rohit Patil<br>
 GITHUB : [falconcode16](https://github.com/falconcode16)<br>
