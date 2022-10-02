@@ -182,6 +182,13 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+------------
+
+-------------
+NAME :  Ankit Agarwal <br>
+GITHUB :[ankitaga27](https://github.com/ankitaga27)<br>
+INSTITUTE/COMPANY : Amity<br>
+DOMAIN/LANGUGAE : c,c#,python, java <br>
 -----------
 
 ---------------
@@ -197,3 +204,4 @@ GITHUB : [akshatmittal61](https://github.com/akshatmittal61)<br>
 INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
 DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
+
