@@ -327,3 +327,41 @@ INSTITUTE/COMPANY : SRM Institute of Science & Technology, KTR<br>
 DOMAIN/LANGUGAE : CPP<br>
 
 ---
+
+---
+
+NAME : Shan Khan <br>
+GITHUB : [shansince2k3](https://github.com/Shansince2k3) <br>
+INSTITUTE: BU Jhansi <br>
+DOMAIN/LANGUGAE: Python <br>
+
+---
+
+---
+
+NAME : Nishchay Veer<br>
+GITHUB : [nishchay-veer](https://github.com/nishchay-veer)<br>
+INSTITUTE/COMPANY : National Institute of Technology, Jalandhar<br>
+DOMAIN/LANGUGAE : JS<br>
+
+---
+
+---
+
+NAME : Tadas Vosylius <br>
+GITHUB : [tadasvosylius](https://github.com/tadasvosylius)<br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : JavaScript<br>
+
+---
+
+---
+
+NAME : Lokesh Katari<br>
+GITHUB : [lokesh-katari](https://github.com/lokesh-katari)<br>
+INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+
+---
+
+
