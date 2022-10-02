@@ -364,10 +364,20 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
+----
 
------------
+NAME : Vaishnao Wankar <br>
+GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
+INSTITUTE/COMPANY : Sinhgad College Of Engineering<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
 NAME :  Ayush Munot <br>
 GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
 INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
------------
+
+---
