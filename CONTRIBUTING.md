@@ -256,7 +256,7 @@ DOMAIN/LANGUGAE : Java<br>
 
 -----------
 NAME : Ankit Kumar<br>
-GITHUB : [falconcode16](https://github.com/ankitkumar174)<br>
+GITHUB : [ankitkumar174](https://github.com/ankitkumar174)<br>
 INSTITUTE/COMPANY :  GGSIPU<br>
 DOMAIN/LANGUGAE : Python<br>
 --------------
