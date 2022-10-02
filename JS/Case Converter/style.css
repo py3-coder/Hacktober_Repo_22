@@ -1,0 +1,21 @@
+.heading{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-control{
+    height: 505px;
+    max-height: 505px;
+    width: 70%;
+    max-width: 70%;
+    resize: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:active{
+    scale: 0.98;
+}

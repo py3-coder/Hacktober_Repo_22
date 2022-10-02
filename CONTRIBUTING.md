@@ -427,3 +427,12 @@ DOMAIN: Python <br>
 
 ---
 
+---
+
+NAME : Subodh Aryal <br>
+GITHUB : github.com/asubodh <br>
+INSTITUTE/COMPANY : Nepsavvy,Nepal <br>
+DOMAIN: Frontend/Backend Dev <br>
+
+---
+
