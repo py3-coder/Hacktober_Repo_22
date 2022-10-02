@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+--------------
+NAME : Srujan Gowda <br>
+GITHUB : [Sruja10](https://github.com/Sruja10)<br>
+INSTITUTE/COMPANY : NONE<br>
+DOMAIN/LANGUGAE : Java,Python<br>
+--------------
