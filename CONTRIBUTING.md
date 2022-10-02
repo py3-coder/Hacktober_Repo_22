@@ -168,6 +168,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME :Vishal <br>
+GITHUB :[vishalrock1912](https://github.com/vishalrock1912) <br>
+INSTITUTE/COMPANY : Delhi Institute of tool engineering <br>
+DOMAIN/LANGUGAE :Python <br>
+
+---
+
+---
+
 NAME : Rohan Kumar Mohanty <br>
 GITHUB : https://github.com/mohantyrohan3 <br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
@@ -222,6 +231,15 @@ DOMAIN/LANGUGAE : JS<br>
 
 ---
 
+NAME : Swayamshree Mohanty  <br>
+GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
+INSTITUTE/COMPANY : Christ University, Lavasa <br>
+DOMAIN/LANGUGAE : Java <br>
+
+---
+
+---
+
 NAME : Tanmoy Sengupta<br>
 GITHUB : github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
@@ -244,6 +262,24 @@ NAME : KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Imran Nazir<br>
+GITHUB :  https://github.com/imran2001<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Justin Miller<br>
+GITHUB :  github.com/jmmille<br>
+INSTITUTE/COMPANY : null<br>
+DOMAIN/LANGUAGE : Python<br>
 
 ---
 
@@ -321,6 +357,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME : Garvitl<br>
+GITHUB : [GarvitV957](https://github.com/GarvitV957)<br>
+INSTITUTE/COMPANY :  IIT<br>
+DOMAIN/LANGUGAE : Machine learning<br>
+
+---
+
+---
+
 NAME : Sayantan Sarkar <br>
 GITHUB : [sayskar500](https://github.com/sayskar500)<br>
 INSTITUTE/COMPANY : SRM Institute of Science & Technology, KTR<br>
@@ -390,3 +435,4 @@ INSTITUTE/COMPANY : Nepsavvy,Nepal <br>
 DOMAIN: Frontend/Backend Dev <br>
 
 ---
+
