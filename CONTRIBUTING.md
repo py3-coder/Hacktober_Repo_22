@@ -188,3 +188,10 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+
+-----------
+NAME :  Justin Coder<br>
+GITHUB :  github.com/jmmille<br>
+INSTITUTE/COMPANY : Clemson University<br>
+DOMAIN/LANGUAGE : Learning<br>
+-----------
