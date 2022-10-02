@@ -226,3 +226,10 @@ INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
 DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
 
+NAME : Pradeep Khatri <br>
+GITHUB : https://github.com/PradeepKhatri <br>
+INSTITUTE/COMPANY : - <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
+
+----------------
+
