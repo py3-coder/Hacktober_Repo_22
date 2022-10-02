@@ -168,6 +168,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME :Vishal <br>
+GITHUB :[vishalrock1912](https://github.com/vishalrock1912) <br>
+INSTITUTE/COMPANY : Delhi Institute of tool engineering <br>
+DOMAIN/LANGUGAE :Python <br>
+
+---
+
+---
+
 NAME : Rohan Kumar Mohanty <br>
 GITHUB : https://github.com/mohantyrohan3 <br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
