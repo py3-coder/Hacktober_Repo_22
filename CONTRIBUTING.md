@@ -269,3 +269,9 @@ INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
 DOMAIN/LANGUGAE : python<br>
 --------------
 
+-----------
+NAME : Mainak Dey<br>
+GITHUB : [Mainakdey1](https://github.com/Mainakdey1)<br>
+INSTITUTE/COMPANY :  Maulana Institute of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+--------------
