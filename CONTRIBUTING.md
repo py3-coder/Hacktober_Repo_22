@@ -184,6 +184,13 @@ INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
 DOMAIN/LANGUGAE : Python<br>
 -----------
 
+-----------
+NAME :  Harsh<br>
+GITHUB : http://github.com/PARKER-X  <br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
+
 NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
