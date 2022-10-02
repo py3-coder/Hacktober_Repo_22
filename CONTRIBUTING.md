@@ -31,6 +31,12 @@ INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
 ------
 -----
+NAME : Atif Moin <br>
+GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
+INSTITUTE/COMPANY : National Post Graduate College <br>
+DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
+------
+-----
 NAME :  Abhinab Pratap Singh Chauhan <br>
 GITHUB :  github.com/generalchauhan <br>
 INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
