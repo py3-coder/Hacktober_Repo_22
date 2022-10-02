@@ -33,10 +33,10 @@ DOMAIN: Data Science <br>
 
 ---
 
-NAME : Abhinab Pratap Singh Chauhan <br>
-GITHUB : github.com/generalchauhan <br>
-INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
-DOMAIN: Frontend Dev <br>
+NAME : Atif Moin <br>
+GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
+INSTITUTE/COMPANY : National Post Graduate College <br>
+DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
 
 ---
 
@@ -168,6 +168,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME :Vishal <br>
+GITHUB :[vishalrock1912](https://github.com/vishalrock1912) <br>
+INSTITUTE/COMPANY : Delhi Institute of tool engineering <br>
+DOMAIN/LANGUGAE :Python <br>
+
+---
+
+---
+
 NAME : Rohan Kumar Mohanty <br>
 GITHUB : https://github.com/mohantyrohan3 <br>
 INSTITUTE/COMPANY : IIIT Bhubaneswar <br>
@@ -222,6 +231,15 @@ DOMAIN/LANGUGAE : JS<br>
 
 ---
 
+NAME : Swayamshree Mohanty  <br>
+GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
+INSTITUTE/COMPANY : Christ University, Lavasa <br>
+DOMAIN/LANGUGAE : Java <br>
+
+---
+
+---
+
 NAME : Tanmoy Sengupta<br>
 GITHUB : github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
@@ -244,6 +262,24 @@ NAME : KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Imran Nazir<br>
+GITHUB :  https://github.com/imran2001<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Justin Miller<br>
+GITHUB :  github.com/jmmille<br>
+INSTITUTE/COMPANY : null<br>
+DOMAIN/LANGUAGE : Python<br>
 
 ---
 
@@ -321,6 +357,24 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME : Ruthvik Kanukunta <br>
+GITHUB : [Ruthvik2127](https://github.com/Ruthvik2127)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
+
+---
+
+NAME : Garvitl<br>
+GITHUB : [GarvitV957](https://github.com/GarvitV957)<br>
+INSTITUTE/COMPANY :  IIT<br>
+DOMAIN/LANGUGAE : Machine learning<br>
+
+---
+
+---
+
 NAME : Sayantan Sarkar <br>
 GITHUB : [sayskar500](https://github.com/sayskar500)<br>
 INSTITUTE/COMPANY : SRM Institute of Science & Technology, KTR<br>
@@ -373,7 +427,7 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
-----
+---
 
 NAME : Vaishnao Wankar <br>
 GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
@@ -388,6 +442,33 @@ NAME :  Ayush Munot <br>
 GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
 INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
+
+---
+
+---
+
+NAME : Pradeep Khatri <br>
+GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
+INSTITUTE/COMPANY : - <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
+
+---
+
+---
+
+NAME :  Abhinab Pratap Singh Chauhan <br>
+GITHUB :  github.com/generalchauhan <br>
+INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
+DOMAIN: Frontend Dev <br>
+
+---
+
+---
+
+NAME : Sahil Kumar<br>
+GITHUB : [sahilsujeet1](https://github.com/sahilsujeet1)<br>
+INSTITUTE/COMPANY :  Chandigarh University<br>
+DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
 
