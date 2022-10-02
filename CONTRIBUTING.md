@@ -365,3 +365,9 @@ DOMAIN/LANGUGAE : python<br>
 ---
 
 
+-----------
+NAME :  Ayush Munot <br>
+GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
+INSTITUTE/COMPANY : Maharshi Dayanand University <br>
+DOMAIN: Python <br>
+-----------
