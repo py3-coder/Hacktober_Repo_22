@@ -420,6 +420,15 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
+NAME : Mainak Dey<br>
+GITHUB : [Mainakdey1](https://github.com/Mainakdey1)<br>
+INSTITUTE/COMPANY :  Maulana Institute of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+
+---
+
+---
+
 NAME : Vaishnao Wankar <br>
 GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
 INSTITUTE/COMPANY : Sinhgad College Of Engineering<br>
@@ -433,6 +442,8 @@ NAME :  Ayush Munot <br>
 GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
 INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
+
+---
 
 ---
 
