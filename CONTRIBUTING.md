@@ -190,8 +190,8 @@ INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
 
 -----------
-NAME :  Justin Coder<br>
+NAME :  Justin Miller<br>
 GITHUB :  github.com/jmmille<br>
-INSTITUTE/COMPANY : Clemson University<br>
-DOMAIN/LANGUAGE : Learning<br>
+INSTITUTE/COMPANY : null<br>
+DOMAIN/LANGUAGE : Python<br>
 -----------
