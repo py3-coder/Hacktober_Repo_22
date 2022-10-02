@@ -231,6 +231,15 @@ DOMAIN/LANGUGAE : JS<br>
 
 ---
 
+NAME : Swayamshree Mohanty  <br>
+GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
+INSTITUTE/COMPANY : Christ University, Lavasa <br>
+DOMAIN/LANGUGAE : Java <br>
+
+---
+
+---
+
 NAME : Tanmoy Sengupta<br>
 GITHUB : github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
