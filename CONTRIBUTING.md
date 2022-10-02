@@ -227,7 +227,7 @@ DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
 
 NAME : Pradeep Khatri <br>
-GITHUB : https://github.com/PradeepKhatri <br>
+GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
 INSTITUTE/COMPANY : - <br>
 DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
 
