@@ -114,6 +114,13 @@ DOMAIN/LANGUGAE : Python <br>
 --------
 
 -------------
+NAME :  Harshr<br>
+GITHUB : http://github.com/PARKER-X <br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : PYTHON<br>
+-----------
+
+----------
 NAME : Vedant Jolly <br>
 GITHUB : https://github.com/BassCoder2808 <br>
 INSTITUTE/COMPANY : Sardar Patel Institute of Technology <br>
@@ -195,6 +202,20 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+-----------
+
+-----------
+NAME :  Rajnandan Mishra<br>
+GITHUB :  https://github.com/rajmishra-47<br>
+INSTITUTE/COMPANY : NIT Rourkela <br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
+
+------------
+NAME : Pankaj Singh Sirari <br>
+GITHUB : https://github.com/pankajsirari222 <br>
+INSTITUTE/COMPANY : Lovely Professional University <br>
+DOMAIN/LANGUGAE : Java <br>
 ---------
 
 ---------
