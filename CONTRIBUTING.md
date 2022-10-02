@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----
+NAME : Tadas Vosylius <br>
+GITHUB : [tadasvosylius](https://github.com/tadasvosylius)<br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : JavaScript<br>
+------
