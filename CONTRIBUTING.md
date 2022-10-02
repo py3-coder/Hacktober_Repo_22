@@ -261,4 +261,17 @@ INSTITUTE/COMPANY : National Institute of Technology, Jalandhar<br>
 DOMAIN/LANGUGAE : JS<br>
 --------------
 
+-----
+NAME : Tadas Vosylius <br>
+GITHUB : [tadasvosylius](https://github.com/tadasvosylius)<br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : JavaScript<br>
+------
+
+-----------
+NAME : Lokesh Katari<br>
+GITHUB : [lokesh-katari](https://github.com/lokesh-katari)<br>
+INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+--------------
 
