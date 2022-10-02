@@ -5,7 +5,7 @@
 #binary search
 def binarySearch(list1,l,h,k):
     if(l<=h):
-        m=(int)((l+h)/2)
+        m=(int)((l+(h-l)//2))
         if list1[m]==k:
             return m
         elif list1[m]>k:
