@@ -13,27 +13,20 @@ DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||--  <br
 ### Copy the template and append your data below :
 
 -----
-
-NAME :  <br>
-GITHUB :  <br>
-INSTITUTE/COMPANY : College Name/Comapny Name <br>
-DOMAIN/LANGUGAE : <br>
-
-
------
-
-NAME : [Akshat Mittal](https://akshatmittal61.vercel.app/)<br>
-GITHUB : [akshatmittal61](https://github.com/akshatmittal61)<br>
-INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
-DOMAIN/LANGUGAE : JavaScript<br>
-
+NAME : Your Name <br>
+GITHUB : [UserName](Profile_Link)<br>
+INSTITUTE/COMPANY : College Name/Company Name<br>
+DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 ------
 
-Sample Data after appending the data it looks like :
+`Sample Data after appending the data it looks like ☝☝ :
+(Don't Make error while editing this file. Since it contains other data)
+Only Commit when it looks same as above updated profile details looks 
+else it will rejected.`
 
 -----
 NAME :  Saurabh Kumar <br>
-GITHUB :  github.com/py3-coder <br>
+GITHUB : [py3-coder](github.com/py3-coder) <br>
 INSTITUTE/COMPANY : Galgotias University <br>
 DOMAIN: Data Science <br>
 ------
@@ -184,12 +177,31 @@ INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
 DOMAIN/LANGUGAE : Python<br>
 -----------
 
+-----------
 NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+------------
 
+-------------
 NAME :  Ankit Agarwal <br>
-GITHUB :(https://github.com/ankitaga27)<br>
+GITHUB :[ankitaga27](https://github.com/ankitaga27)<br>
 INSTITUTE/COMPANY : Amity<br>
 DOMAIN/LANGUGAE : c,c#,python, java <br>
+-----------
+
+---------------
+NAME :  VAISHNAVI KULAKRNI<br>
+GITHUB : https://github.com/vaishnavi802<br>
+INSTITUTE/COMPANY : WALCHAND COLLEGE OF ENGINEERING, SANGLI <br>
+DOMAIN/LANGUGAE : C++<br>
+-------------
+
+------------
+NAME : [Akshat Mittal](https://akshatmittal61.vercel.app/)<br>
+GITHUB : [akshatmittal61](https://github.com/akshatmittal61)<br>
+INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
+DOMAIN/LANGUGAE : JavaScript<br>
+----------------
+
