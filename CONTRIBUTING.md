@@ -339,6 +339,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME : Garvitl<br>
+GITHUB : [GarvitV957](https://github.com/GarvitV957)<br>
+INSTITUTE/COMPANY :  IIT<br>
+DOMAIN/LANGUGAE : Machine learning<br>
+
+---
+
+---
+
 NAME : Sayantan Sarkar <br>
 GITHUB : [sayskar500](https://github.com/sayskar500)<br>
 INSTITUTE/COMPANY : SRM Institute of Science & Technology, KTR<br>
