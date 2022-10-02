@@ -33,10 +33,10 @@ DOMAIN: Data Science <br>
 
 ---
 
-NAME : Abhinab Pratap Singh Chauhan <br>
-GITHUB : github.com/generalchauhan <br>
-INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
-DOMAIN: Frontend Dev <br>
+NAME : Atif Moin <br>
+GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
+INSTITUTE/COMPANY : National Post Graduate College <br>
+DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
 
 ---
 
@@ -409,7 +409,7 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
-----
+---
 
 NAME : Vaishnao Wankar <br>
 GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
@@ -432,5 +432,15 @@ GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
 INSTITUTE/COMPANY : - <br>
 DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
 
-----------------
+---
+
+---
+
+NAME :  Abhinab Pratap Singh Chauhan <br>
+GITHUB :  github.com/generalchauhan <br>
+INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
+DOMAIN: Frontend Dev <br>
+
+---
+
 
