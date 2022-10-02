@@ -266,6 +266,16 @@ DOMAIN/LANGUGAE : C++<br>
 ---
 
 ---
+
+NAME :  Imran Nazir<br>
+GITHUB :  https://github.com/imran2001<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
 NAME :  Justin Miller<br>
 GITHUB :  github.com/jmmille<br>
 INSTITUTE/COMPANY : null<br>
