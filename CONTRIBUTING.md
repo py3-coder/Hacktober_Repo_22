@@ -254,3 +254,11 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----------
+NAME : Nishchay Veer<br>
+GITHUB : [nishchay-veer](https://github.com/nishchay-veer)<br>
+INSTITUTE/COMPANY : National Institute of Technology, Jalandhar<br>
+DOMAIN/LANGUGAE : JS<br>
+--------------
+
+
