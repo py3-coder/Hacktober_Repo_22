@@ -99,3 +99,10 @@ GITHUB : github.com/sujithkumardola <br>
 INSTITUTE/COMPANY : NULL <br>
 DOMAIN/LANGUGAE : Python <br>
 --------
+
+-------------
+NAME :  Harshr<br>
+GITHUB : http://github.com/PARKER-X <br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : PYTHON<br>
+-----------
