@@ -196,7 +196,14 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
-------------
+-----------
+
+-----------
+NAME :  Rajnandan Mishra<br>
+GITHUB :  https://github.com/rajmishra-47<br>
+INSTITUTE/COMPANY : NIT Rourkela <br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
 
 ------------
 NAME : Pankaj Singh Sirari <br>
@@ -233,9 +240,17 @@ INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
 DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
 
------
+-------
 NAME : Franco Joe M <br>
 GITHUB : [francojoem]((https://github.com/francojoem)<br>
 INSTITUTE/COMPANY : Model Engineering College<br>
 DOMAIN/LANGUGAE : Golang<br>
-------
+-------
+
+-----------
+NAME : Rohit Patil<br>
+GITHUB : [falconcode16](https://github.com/falconcode16)<br>
+INSTITUTE/COMPANY :  KLE Technological University<br>
+DOMAIN/LANGUGAE : Java<br>
+--------------
+
