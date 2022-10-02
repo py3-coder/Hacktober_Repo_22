@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----
+NAME : Ruthvik Kanukunta <br>
+GITHUB : [Ruthvik2127](https://github.com/Ruthvik2127)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : Python<br>
+------
