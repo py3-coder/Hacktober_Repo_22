@@ -182,7 +182,15 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
-------------
+---------
+
+---------
+NAME :  Joshith Gopidi <br>
+GITHUB :  github.com/jos-re <br>
+INSTITUTE/COMPANY : VIT University Bhopal <br>
+DOMAIN/LANGUGAE: Python<br>
+---------
+
 
 -------------
 NAME :  Ankit Agarwal <br>
