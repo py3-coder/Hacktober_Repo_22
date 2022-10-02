@@ -269,3 +269,10 @@ INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
 DOMAIN/LANGUGAE : python<br>
 --------------
 
+-----
+NAME : Vaishnao Wankar <br>
+GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
+INSTITUTE/COMPANY : Sinhgad College Of Engineering<br>
+DOMAIN/LANGUGAE : C++<br>
+------
+
