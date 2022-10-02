@@ -1,16 +1,12 @@
-# CONTRIBUTORS
+# CONTRIBUTORS 💻👩‍💻
 
-# Template to Follow
+## NOTE : `Add Your Profile Data Carefully, and before commit  Preview it twice or thrice and match it from previous one.`
 
-Note : Append your Data as mentioned below.Don't Insert any dummy data . `Happy contributing folks.🏆👏`
+`Happy contributing folks.🏆👏`
 
-NAME : Your Full Name <br>
-GITHUB : Github handle Link <br>
-INSTITUTE/COMPANY : College Name/Comapny Name <br>
-DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||-- <br>
 
 ### Copy the template and append your data below :
-
+```
 ---
 
 NAME : Your Name <br>
@@ -19,8 +15,8 @@ INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
 ---
-
-`Sample Data after appending the data it looks like ☝☝ : (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+```
+`Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
 
 ---
 
@@ -31,14 +27,6 @@ DOMAIN: Data Science <br>
 
 ---
 
----
-
-NAME : Atif Moin <br>
-GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
-INSTITUTE/COMPANY : National Post Graduate College <br>
-DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
-
----
 
 ---
 
@@ -82,6 +70,15 @@ NAME : Shobhit Bhatt<br>
 GITHUB : [@shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)<br>
 INSTITUTE/COMPANY : Perplexed<br>
 DOMAIN/LANGUGAE : JAVA<br>
+
+---
+
+---
+
+NAME : Atif Moin <br>
+GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
+INSTITUTE/COMPANY : National Post Graduate College <br>
+DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
 
 ---
 
