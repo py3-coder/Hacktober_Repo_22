@@ -6,7 +6,7 @@
   <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
 </p>
 
-###  `If u not star this repo will automatically assign with star_validation labels in pull request and automatically not merge!`
+# `You Need ⭐ star this repo before you generate PR!📌`
 ## `NOTE : Your Hacktoberfest-22 PR will count on or after 1-oct till 31-Oct`.
 
 
@@ -62,12 +62,12 @@ Contributions done to the `Correct Directory`  will only considered for Hacktobe
 You  Need to add you complete Data in `CONTRIBUTING.md`.
 Copy the template and add the data as [here](https://github.com/py3-coder/Hacktober_Repo_22/blob/main/CONTRIBUTING.md).
 ```
------------
-NAME :  <br>
-GITHUB :  <br>
-INSTITUTE/COMPANY : College Name/Comapny Name <br>
-DOMAIN/LANGUGAE : <br>
------------
+-----
+NAME : Your Name <br>
+GITHUB : [UserName](Profile_Link)<br>
+INSTITUTE/COMPANY : College Name/Company Name<br>
+DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
+------
 ```
 
 ## STEP-3. Wait for Pull Request to merge
@@ -86,4 +86,4 @@ If you fail to make 4 valid pull requests then you can't get schwags or t-shirts
 
 ![image](https://user-images.githubusercontent.com/54509629/192245072-cf710b48-ee99-47b2-8446-e45d21f25c60.png)
 
-### Author : Saurabh Kumar
+### Author : [Saurabh Kumar](https://github.com/py3-coder)
