@@ -120,3 +120,7 @@ GITHUB :  github.com/qyu4x<br>
 INSTITUTE/COMPANY : Dian Nuswantoro University <br>
 DOMAIN/LANGUGAE : Java<br>
 -----------
+NAME :vishal
+GITHUB :https://github.com/vishalrock1912
+INSTITUTE/COMPANY : College Name/Comapny Name: delhi institute of tool engineering
+DOMAIN/LANGUGAE :python
