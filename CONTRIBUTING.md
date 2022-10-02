@@ -196,6 +196,13 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+------------
+
+------------
+NAME : Pankaj Singh Sirari <br>
+GITHUB : https://github.com/pankajsirari222 <br>
+INSTITUTE/COMPANY : Lovely Professional University <br>
+DOMAIN/LANGUGAE : Java <br>
 ---------
 
 ---------
