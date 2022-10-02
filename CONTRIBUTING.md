@@ -188,3 +188,10 @@ NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+
+-----------
+NAME :  Rajnandan Mishra<br>
+GITHUB :  https://github.com/rajmishra-47<br>
+INSTITUTE/COMPANY : NIT Rourkela <br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
