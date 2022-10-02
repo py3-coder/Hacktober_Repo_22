@@ -240,3 +240,10 @@ INSTITUTE/COMPANY :  [IIIT Una](https://iiitu.ac.in)<br>
 DOMAIN/LANGUGAE : JavaScript<br>
 ----------------
 
+-----------
+NAME : Rohit Patil<br>
+GITHUB : [falconcode16](https://github.com/falconcode16)<br>
+INSTITUTE/COMPANY :  KLE Technological University<br>
+DOMAIN/LANGUGAE : Java<br>
+--------------
+
