@@ -108,6 +108,13 @@ DOMAIN/LANGUGAE : Python <br>
 --------
 
 -------------
+NAME :  Harshr<br>
+GITHUB : http://github.com/PARKER-X <br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : PYTHON<br>
+-----------
+
+----------
 NAME : Vedant Jolly <br>
 GITHUB : https://github.com/BassCoder2808 <br>
 INSTITUTE/COMPANY : Sardar Patel Institute of Technology <br>
