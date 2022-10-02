@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----------
+NAME :  Ayush Muont <br>
+GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
+INSTITUTE/COMPANY : Maharshi Dayanand University <br>
+DOMAIN: Python <br>
+-----------
