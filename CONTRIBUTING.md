@@ -44,6 +44,13 @@ INSTITUTE/COMPANY : IEM <br>
 DOMAIN/LANGUGAE : Python <br>
 ----------
 
+---------
+NAME : Swayamshree Mohanty  <br>
+GITHUB : https://github.com/Swayms-stack <br>
+INSTITUTE/COMPANY : Christ University, Lavasa <br>
+DOMAIN/LANGUGAE : Java <br>
+----------
+
 -----
 NAME : Saurabh Kumar<br>
 GITHUB : github.com/runtime-error2905<br>
