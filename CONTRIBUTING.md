@@ -178,6 +178,13 @@ DOMAIN/LANGUGAE : Python<br>
 -----------
 
 -----------
+NAME :  Harsh<br>
+GITHUB : http://github.com/PARKER-X  <br>
+INSTITUTE/COMPANY : None<br>
+DOMAIN/LANGUGAE : Python<br>
+-----------
+
+---------
 NAME :  KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
@@ -191,13 +198,12 @@ INSTITUTE/COMPANY : VIT University Bhopal <br>
 DOMAIN/LANGUGAE: Python<br>
 ---------
 
-
 -------------
 NAME :  Ankit Agarwal <br>
 GITHUB :[ankitaga27](https://github.com/ankitaga27)<br>
 INSTITUTE/COMPANY : Amity<br>
 DOMAIN/LANGUGAE : c,c#,python, java <br>
------------
+------------
 
 ---------------
 NAME :  VAISHNAVI KULAKRNI<br>
