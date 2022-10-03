@@ -456,6 +456,15 @@ INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
 
 ---
+---
+
+NAME : Shabaj Ansari <br>
+GITHUB : [SHabaj-dev](https://github.com/SHabaj-dev)<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : C++ <br>
+
+---
+---
 
 ---
 
