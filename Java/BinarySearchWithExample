@@ -1,0 +1,76 @@
+//This is an example of a biotonic array
+
+/**
+ * This is the answer of the question that is available on leetcode : 853 peak index in a Mountain Array
+ */
+
+
+// This code will help you understand the concept of binary search very easily.
+
+ /**
+  * Binary search is always applied on a sorted array.
+  * It is a search that uses the mid element in the array to find the element.
+  * Try to dry this code with the example and seeing the question from leetcode ,
+  * it will clearfy you how it is working internally.
+  * Time Complexity = log(N)
+  *
+  */
+
+
+class Solution {
+    public int peakIndexInMountainArray(int[] arr) {  //say arr = [0,1,0] target = peak element
+
+        int start = 0;
+        int end = arr.length-1;
+
+        while(start<end){
+
+            int mid = start +(end - start)/2;
+
+            if(arr[mid]>arr[mid+1]){
+                end = mid;          //becoz it is in the decreasing array and the there
+                                    // is a possiblity that the largest element is still behind the mid  one.
+            }
+            else{
+                start = mid +1;
+
+            }
+
+
+        }
+        return start;
+
+    }
+}
+
+// Let us take an example for the above code
+/**
+ * initial value of start and end are
+ * start = 0
+ * end = 2
+ *
+ * while loop starts for the first time ( 1 time )
+ *
+ * mid = 1
+ *
+ * Now here it checks whether arr[1]>arr[2] , Yes it is
+ * so it gives
+ * end = mid = 1
+ *
+ * now while checks the condition is start<end ;;; Yes it is
+ *
+ * mid = 0
+ *
+ * now arr[0]>arr[1] ;;; No it is false
+ * hence the value of start will become
+ * start = mid
+ *
+ * now we can see that the value of end > start ,
+ *
+ * hence the loop is gonna break  thus the searching is completed ,
+ * and it will return start , means the peak element.
+ */
+
+
+// OVERALL binarySearch is a algo that is used in searching and which decreases the
+// complixity of code and of time also.
