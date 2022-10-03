@@ -60,18 +60,15 @@ GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 
+----
 
------
+--- 
+
 NAME: Manan Aggarwal<br>
 GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
 INSTITUTE: JIIMS Technical Collage<br>
 DOMAIN?LANGUAGE: C++,JAVA<br>
------
 
------------
-NAME :  Amit Kumar<br>
-GITHUB :  SideWinder1999<br>
-=======
 ---
 
 ---
@@ -454,9 +451,9 @@ DOMAIN: Python <br>
 
 ---
 
-NAME : Vikash Maurya
-GITHUB : [kalvik09](https://github.com/kalvik09)
-INSTITUTE/COMPANY : KIET Group Of Institutions
+NAME : Vikash Maurya <br>
+GITHUB : [kalvik09](https://github.com/kalvik09) <br>
+INSTITUTE/COMPANY : KIET Group Of Institutions <br>
 DOMAIN/LANGUGAE : Python <br>
 
 ---
