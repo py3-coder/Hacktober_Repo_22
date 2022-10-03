@@ -468,4 +468,9 @@ INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
+NAME : Anushka Paliwal <br>
+GITHUB : [Anushka298](https://github.com/Anushka298)<br>
+INSTITUTE/COMPANY : SRMIST<br>
+DOMAIN/LANGUGAE : C++<br>
+
 
