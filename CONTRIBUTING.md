@@ -275,3 +275,9 @@ INSTITUTE/COMPANY :  GMR Institute Of Technology<br>
 DOMAIN/LANGUGAE : python<br>
 --------------
 
+-----
+NAME : Sirshak Bohara <br>
+GITHUB : [sirshakbohara](https://github.com/sirshakbohara)<br>
+INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
+DOMAIN/LANGUGAE : C++<br>
+------
