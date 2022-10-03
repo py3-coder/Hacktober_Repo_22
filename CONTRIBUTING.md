@@ -14,24 +14,9 @@ GITHUB : [UserName](Profile_Link)<br>
 INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
-
-`Sample Data after appending the data it looks like ☝☝ :
-(Don't Make error while editing this file. Since it contains other data)
-Only Commit when it looks same as above updated profile details looks
-else it will rejected.`
-=======
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
----
-
-NAME : Raja sk <br>
-GITHUB : [Raja-s-k](github.com/Raja-s-k)<br>
-INSTITUTE/COMPANY : Amrita University<br>
-DOMAIN/LANGUGAE : HTML<br>
-
----
-
 
 ---
 
@@ -67,15 +52,6 @@ NAME : Saurabh Kumar<br>
 GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
-
-----
-
---- 
-
-NAME: Manan Aggarwal<br>
-GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
-INSTITUTE: JIIMS Technical Collage<br>
-DOMAIN?LANGUAGE: C++,JAVA<br>
 
 ---
 
@@ -459,9 +435,9 @@ DOMAIN: Python <br>
 
 ---
 
-NAME : Vikash Maurya <br>
-GITHUB : [kalvik09](https://github.com/kalvik09) <br>
-INSTITUTE/COMPANY : KIET Group Of Institutions <br>
+NAME : Vikash Maurya
+GITHUB : [kalvik09](https://github.com/kalvik09)
+INSTITUTE/COMPANY : KIET Group Of Institutions
 DOMAIN/LANGUGAE : Python <br>
 
 ---
@@ -542,12 +518,10 @@ INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
 DOMAIN/LANGUGAE : C++<br>
 
 ---
+
+NAME : Anand Kumar <br>
+GITHUB : https://github.com/Anand2350 <br>
+INSTITUTE/COMPANY : Galgotias university<br>
+DOMAIN/LANGUGAE : JAVA <br>
+
 ---
-
-NAME : d-coder111 <br>
-GITHUB : [d-coder111](https://github.com/d-coder111)<br>
-INSTITUTE/COMPANY :NA<br>
-DOMAIN/LANGUGAE :Python<br>
-
----
-
