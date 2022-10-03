@@ -519,4 +519,10 @@ DOMAIN/LANGUGAE : C++<br>
 
 ---
 
+---
+NAME : Shrey Midha <br>
+GITHUB : [MidhaShrey](https://github.com/MidhaShrey)<br>
+INSTITUTE/COMPANY : Dr. A. P. J. Abdul Kalam Technical University<br>
+DOMAIN/LANGUGAE : C++,Python,Web Dev<br>
+
 
