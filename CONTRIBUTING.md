@@ -14,9 +14,16 @@ GITHUB : [UserName](Profile_Link)<br>
 INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
+
+`Sample Data after appending the data it looks like ☝☝ :
+(Don't Make error while editing this file. Since it contains other data)
+Only Commit when it looks same as above updated profile details looks
+else it will rejected.`
+=======
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+
 
 ---
 
@@ -53,6 +60,18 @@ GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 
+
+-----
+NAME: Manan Aggarwal<br>
+GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
+INSTITUTE: JIIMS Technical Collage<br>
+DOMAIN?LANGUAGE: C++,JAVA<br>
+-----
+
+-----------
+NAME :  Amit Kumar<br>
+GITHUB :  SideWinder1999<br>
+=======
 ---
 
 ---
