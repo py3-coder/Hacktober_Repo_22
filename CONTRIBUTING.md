@@ -468,4 +468,11 @@ INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
+---
 
+NAME : Ranodeep Banerjee <br>
+GITHUB : [ranodeepbanerjee](https://github.com/ranodeepbanerjee)<br>
+INSTITUTE/COMPANY : Techno International New Town<br>
+DOMAIN/LANGUGAE : Java<br>
+
+---
