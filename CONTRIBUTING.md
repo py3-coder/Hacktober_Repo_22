@@ -435,6 +435,14 @@ DOMAIN: Python <br>
 
 ---
 
+NAME :  Souvik Banerjee <br>
+GITHUB :  [Souvik2376](https://github.com/Souvik2376) <br>
+INSTITUTE/COMPANY : Techno International Newtown <br>
+DOMAIN: JAVA<br>
+
+---
+
+---
 NAME :  Shivam Dubey <br>
 GITHUB : https://github.com/arjsivam <br>
 INSTITUTE/COMPANY : Galgotias College of Engineering and Technology <br>
