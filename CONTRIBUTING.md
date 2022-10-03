@@ -228,15 +228,6 @@ DOMAIN/LANGUGAE : JS<br>
 
 ---
 
-NAME : Swayamshree Mohanty  <br>
-GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
-INSTITUTE/COMPANY : Christ University, Lavasa <br>
-DOMAIN/LANGUGAE : Java <br>
-
----
-
----
-
 NAME : Tanmoy Sengupta<br>
 GITHUB : github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
@@ -439,6 +430,15 @@ NAME :  Ayush Munot <br>
 GITHUB :  [RoyalBosS-Ayush](https://github.com/RoyalBosS-Ayush) <br>
 INSTITUTE/COMPANY : Maharshi Dayanand University <br>
 DOMAIN: Python <br>
+
+---
+
+---
+
+NAME :  Shivam Dubey <br>
+GITHUB : https://github.com/arjsivam <br>
+INSTITUTE/COMPANY : Galgotias College of Engineering and Technology <br>
+DOMAIN/language: C++ <br>
 
 ---
 
