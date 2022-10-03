@@ -1,16 +1,12 @@
-# CONTRIBUTORS
+# CONTRIBUTORS 💻👩‍💻
 
-# Template to Follow
+## NOTE : `Add Your Profile Data Carefully, and before commit  Preview it twice or thrice and match it from previous one.`
 
-Note : Append your Data as mentioned below.Don't Insert any dummy data . `Happy contributing folks.🏆👏`
+`Happy contributing folks.🏆👏`
 
-NAME : Your Full Name <br>
-GITHUB : Github handle Link <br>
-INSTITUTE/COMPANY : College Name/Comapny Name <br>
-DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :PYTHON || JAVA || DATA-SCIENCE ||-- <br>
 
 ### Copy the template and append your data below :
-
+```
 ---
 
 NAME : Your Name <br>
@@ -19,8 +15,8 @@ INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
 ---
-
-`Sample Data after appending the data it looks like ☝☝ : (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+```
+`Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
 
 ---
 
@@ -31,14 +27,6 @@ DOMAIN: Data Science <br>
 
 ---
 
----
-
-NAME : Abhinab Pratap Singh Chauhan <br>
-GITHUB : github.com/generalchauhan <br>
-INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
-DOMAIN: Frontend Dev <br>
-
----
 
 ---
 
@@ -82,6 +70,15 @@ NAME : Shobhit Bhatt<br>
 GITHUB : [@shobhit-bhatt-14](https://github.com/shobhit-bhatt-14)<br>
 INSTITUTE/COMPANY : Perplexed<br>
 DOMAIN/LANGUGAE : JAVA<br>
+
+---
+
+---
+
+NAME : Atif Moin <br>
+GITHUB : [iamatifmoin](github.com/iamatifmoin) <br>
+INSTITUTE/COMPANY : National Post Graduate College <br>
+DOMAIN/LANGUGAE : C/Cpp/Java/Python/JS <br>
 
 ---
 
@@ -231,15 +228,6 @@ DOMAIN/LANGUGAE : JS<br>
 
 ---
 
-NAME : Swayamshree Mohanty  <br>
-GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
-INSTITUTE/COMPANY : Christ University, Lavasa <br>
-DOMAIN/LANGUGAE : Java <br>
-
----
-
----
-
 NAME : Tanmoy Sengupta<br>
 GITHUB : github.com/TSG405<br>
 INSTITUTE/COMPANY : Netaji Subhash Engineering College<br>
@@ -262,6 +250,24 @@ NAME : KISLAY KUNAL<br>
 GITHUB : https://github.com/kislaykunal<br>
 INSTITUTE/COMPANY : GALGOTIAS UNIVERSITY <br>
 DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Imran Nazir<br>
+GITHUB :  https://github.com/imran2001<br>
+INSTITUTE/COMPANY : Galgotias University<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME :  Justin Miller<br>
+GITHUB :  github.com/jmmille<br>
+INSTITUTE/COMPANY : null<br>
+DOMAIN/LANGUAGE : Python<br>
 
 ---
 
@@ -339,6 +345,15 @@ DOMAIN/LANGUGAE : Java<br>
 
 ---
 
+NAME : Ruthvik Kanukunta <br>
+GITHUB : [Ruthvik2127](https://github.com/Ruthvik2127)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
+
+---
+
 NAME : Garvitl<br>
 GITHUB : [GarvitV957](https://github.com/GarvitV957)<br>
 INSTITUTE/COMPANY :  IIT<br>
@@ -391,7 +406,16 @@ DOMAIN/LANGUGAE : python<br>
 
 ---
 
-----
+---
+
+NAME : Mainak Dey<br>
+GITHUB : [Mainakdey1](https://github.com/Mainakdey1)<br>
+INSTITUTE/COMPANY :  Maulana Institute of Technology<br>
+DOMAIN/LANGUGAE : python<br>
+
+---
+
+---
 
 NAME : Vaishnao Wankar <br>
 GITHUB : [vaishnaowankar](https://github.com/vaishnaowankar)<br>
@@ -409,9 +433,90 @@ DOMAIN: Python <br>
 
 ---
 
+---
+
 NAME : Vikash Maurya
 GITHUB : [kalvik09](https://github.com/kalvik09)
 INSTITUTE/COMPANY : KIET Group Of Institutions
 DOMAIN/LANGUGAE : Python <br>
 
 ---
+
+---
+
+NAME :  Souvik Banerjee <br>
+GITHUB :  [Souvik2376](https://github.com/Souvik2376) <br>
+INSTITUTE/COMPANY : Techno International Newtown <br>
+DOMAIN: JAVA<br>
+
+---
+
+---
+
+NAME :  Shivam Dubey <br>
+GITHUB : https://github.com/arjsivam <br>
+INSTITUTE/COMPANY : Galgotias College of Engineering and Technology <br>
+DOMAIN/language: C++ <br>
+
+---
+
+---
+
+NAME : Pradeep Khatri <br>
+GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
+INSTITUTE/COMPANY : - <br>
+DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
+
+---
+
+---
+
+NAME :  Abhinab Pratap Singh Chauhan <br>
+GITHUB :  github.com/generalchauhan <br>
+INSTITUTE/COMPANY : Army Institute of Technology, Pune <br>
+DOMAIN: Frontend Dev <br>
+
+---
+
+---
+
+NAME : Sahil Kumar<br>
+GITHUB : [sahilsujeet1](https://github.com/sahilsujeet1)<br>
+INSTITUTE/COMPANY :  Chandigarh University<br>
+DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
+
+---
+NAME : Anushka Paliwal <br>
+GITHUB : [Anushka298](https://github.com/Anushka298)<br>
+INSTITUTE/COMPANY : SRMIST<br>
+DOMAIN/LANGUGAE : C++<br>
+
+
+---
+
+NAME : Chidambaram Sathappan <br>
+GITHUB : [imGaneshS](https://github.com/imGaneshS)<br>
+INSTITUTE/COMPANY : Anna University<br>
+DOMAIN/LANGUAGE : Python<br>
+
+---
+
+---
+
+NAME : Ankit Kumar<br>
+GITHUB : [ankitkumar174](https://github.com/ankitkumar174)<br>
+INSTITUTE/COMPANY :  Guru Gobind Singh Indrprastha University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
+
+---
+
+NAME : Sirshak Bohara <br>
+GITHUB : [sirshakbohara](https://github.com/sirshakbohara)<br>
+INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+
