@@ -550,4 +550,12 @@ INSTITUTE/COMPANY :NA<br>
 DOMAIN/LANGUGAE :Python<br>
 
 ---
+---
 
+NAME : Arkapravo Majumder<br>
+
+GITHUB : [arka9088](https://github.com/arka9088)<br>
+
+INSTITUTION : Manipal  <br>
+
+DOMAIN/LANGUGAE : Java/Python<br>
