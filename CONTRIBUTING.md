@@ -477,11 +477,20 @@ DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
 
------------
+---
+
 NAME : Ankit Kumar<br>
 GITHUB : [ankitkumar174](https://github.com/ankitkumar174)<br>
 INSTITUTE/COMPANY :  Guru Gobind Singh Indrprastha University<br>
 DOMAIN/LANGUGAE : Python<br>
---------------
 
+---
 
+---
+
+NAME : Sirshak Bohara <br>
+GITHUB : [sirshakbohara](https://github.com/sirshakbohara)<br>
+INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
