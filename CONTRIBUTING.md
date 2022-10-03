@@ -17,6 +17,14 @@ DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+---
+
+NAME : Raja sk <br>
+GITHUB : [Raja-s-k](github.com/Raja-s-k)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : HTML<br>
+
+---
 
 ---
 
