@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Analysis</title>
+    </head>
+    <body>
+        <!-- <h1 id="x1">{{x1}}</h1>
+        <h1 id="x2">{{x2}}</h1>
+        <h1 id="x3">{{x3}}</h1>
+        <h1 id="x4">{{x4}}</h1> -->
+        <!-- <script src="{{ url_for('static',filename='src/js/jeelizFaceTransfer.js') }}"></script>
+        <script src="{{ url_for('static',filename='src/js/posture.js') }}"></script>
+        <script src="{{ url_for('static',filename='src/js/audio.js') }}"></script>
+        <script src="{{ url_for('static',filename='src/js/main.js') }}"></script> -->
+<br>
+<br>
+<br>
+<br>
+
+<script>
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+exportEnabled: true,
+animationEnabled: true,
+title:{
+text: "Error Analysis"
+},
+legend:{
+cursor: "pointer",
+itemclick: explodePie
+},
+data: [{
+type: "pie",
+showInLegend: true,
+toolTipContent: "{name}: <strong>{y}%</strong>",
+indexLabel: "{name} - {y}%",
+dataPoints: [
+    { y: {{x1}}, name: "Getting too close to the Screen", exploded: true },
+    { y: {{x2}}, name: "Head is either too up or too down", exploded: true },
+    { y: {{x3}}, name: "Head is turned too much", exploded: true },
+    { y: {{x4}}, name: "Head is bend towards shoulders", exploded: true }
+]
+}]
+});
+chart.render();
+}
+
+function explodePie (e) {
+if(typeof (e.dataSeries.dataPoints[e.dataPointIndex].exploded) === "undefined" || !e.dataSeries.dataPoints[e.dataPointIndex].exploded) {
+e.dataSeries.dataPoints[e.dataPointIndex].exploded = true;
+} else {
+e.dataSeries.dataPoints[e.dataPointIndex].exploded = false;
+}
+e.chart.render();
+
+}
+</script>
+<div id="chartContainer" style="height: 650px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    </body>
+</html>
