@@ -1,3 +1,5 @@
+# This program can calculate the Aerial Distance between two cities.
+
 from geopy.geocoders import Nominatim
 from geopy import distance
 
