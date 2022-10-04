@@ -32,6 +32,14 @@ DOMAIN/LANGUGAE : HTML<br>
 
 ---
 
+---
+
+NAME : Arjun M S <br>
+GITHUB : [arjun-ms](github.com/arjun-ms)<br>
+INSTITUTE/COMPANY : Jyothi Engineering College<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
 
 ---
 
