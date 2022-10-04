@@ -46,7 +46,6 @@
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Make contributions to the `Specified-Domain/language` folder only will be counted towards the Hacktoberfest 2022
 - Add your files (`git add -A`), commit (`git commit -m "added myself"`) and push (`git push origin new-user`)
-- Add your profile data in `CONTRIBUTING.md` .
 - Create a pull request
 - Star this `repository`
 
@@ -58,24 +57,12 @@ NOTE : Contributions done to the `Correct Directory`  will be considered towards
 ## STEP-1. Add you Project or Program Source file to correct folder.
 Contributions done to the `Correct Directory`  will only considered for Hacktoberfest 2022.
 
-## STEP-2. Add your profile information
-You  Need to add you complete Data in `CONTRIBUTING.md`.
-Copy the template and add the data as [here](https://github.com/py3-coder/Hacktober_Repo_22/blob/main/CONTRIBUTING.md).
-```
----
 
-NAME : Your Name <br>
-GITHUB : [UserName](Profile_Link)<br>
-INSTITUTE/COMPANY : College Name/Company Name<br>
-DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
+## STEP-2. Wait for Pull Request to merge
 
----
+## STEP-3. Celebrate - you've done your first pull request!!
 
-```
-
-## STEP-3. Wait for Pull Request to merge
-
-## STEP-4. Celebrate - you've done your first pull request!!
+## STEP-4. Now You are ready For next PR.
 
 ```
 '''
