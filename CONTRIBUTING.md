@@ -1,9 +1,11 @@
 # CONTRIBUTORS 💻👩‍💻
 
-## NOTE : `Add Your Profile Data Carefully, and before commit  Preview it twice or thrice and match it from previous one.`
+## NOTE : `Add Your Profile Data Carefully,and before commit , Preview it twice or thrice and match it from previous one.`
 
 `Happy contributing folks.🏆👏`
 
+📢 Just Copy the Template and Make sure Append your profile data and the end. If found any other edit in this file.PR will not accepted.
+----
 
 ### Copy the template and append your data below :
 ```
@@ -19,6 +21,7 @@ DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
 
 ---
+
 
 NAME : Saurabh Kumar <br>
 GITHUB : [py3-coder](github.com/py3-coder) <br>
