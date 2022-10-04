@@ -550,8 +550,3 @@ INSTITUTE/COMPANY :NA<br>
 DOMAIN/LANGUGAE :Python<br>
 
 ---
-
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 041cb7e (Update CONTRIBUTING.md)
