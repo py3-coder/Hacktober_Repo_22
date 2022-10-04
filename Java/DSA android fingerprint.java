@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 	private KeyStore keyStore;
 	// Defining variable for storing
 	// key in android keystore container
-	private static final String KEY_NAME = "GEEKSFORGEEKS";
+	private static final String KEY_NAME = "CAPTAINSANDEEP";
 	private Cipher cipher;
 	private TextView errorText;
 
