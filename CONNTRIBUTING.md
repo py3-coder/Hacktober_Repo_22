@@ -1,4 +1,7 @@
-⚠️Rules ❕ ❕ 😼 😼 😼: ✅ Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
+## 📢 Rules  😼 😼 😼: 
+
+```
+✅ Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 
 ✅ The pull request must contain commits you made yourself.
 
@@ -8,7 +11,9 @@
 
 ✅ To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone. This year, the first 55,000 participants can earn a T-shirt.
 
-⚠️What not to do ❗ ❗ 😤 😤 ❌ PRs that are automated (e.g. scripted opening PRs to remove whitespace/optimize images)
+```
+## What not to do ❗ ❗ 😤 😤 ❌ PRs that are automated (e.g. scripted opening PRs to remove whitespace/optimize images <br>
+```
 
 ❌ PRs that are disruptive (e.g. taking someone else’s branch/commits and making a PR)
 
@@ -16,8 +21,10 @@
 
 ❌ Something that’s clearly an attempt to simply +1 your PR count for October
 
-PULL/MERGE REQUEST DETAILS HERE’S HOW WE VALIDATE CONTRIBUTOR PULL/MERGE REQUESTS (“PR/MRS”) FOR HACKTOBERFEST
+```
 
+## PULL/MERGE REQUEST DETAILS HERE’S HOW WE VALIDATE CONTRIBUTOR PULL/MERGE REQUESTS (“PR/MRS”) FOR HACKTOBERFEST
+```
 [ OUT-OF-BOUNDS ] YOUR PR/MRS MUST BE WITHIN THE BOUNDS OF HACKTOBERFEST.
 
 [ EXCLUDED ] REPOS THAT GO AGAINST HACKTOBERFEST’S VALUES WILL BE EXCLUDED FROM QUALIFICATION AND PR/MRS MADE TO THOSE REPOS WON’T COUNT.
@@ -29,5 +36,4 @@ PULL/MERGE REQUEST DETAILS HERE’S HOW WE VALIDATE CONTRIBUTOR PULL/MERGE REQUE
 [ INVALID ] YOUR PR/MRS MUST NOT BE LABELED AS “INVALID”.
 
 [ ACCEPTED ] YOUR PR/MRS MUST BE MERGED, HAVE THE “HACKTOBERFEST-ACCEPTED” LABEL, OR HAVE AN OVERALL APPROVING REVIEW.
-
-
+```
