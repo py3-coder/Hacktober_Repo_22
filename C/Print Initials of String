@@ -6,7 +6,7 @@ int main()
     char s[100];
     int i=1;
     printf("Enter a string: ");
-    gets(s);
+    fgets(s,100,stdin);
     for(i=0;s[i]!='\0';i++)
     {
        s[i]=toupper(s[i]); 
