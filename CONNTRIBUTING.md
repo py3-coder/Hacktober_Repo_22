@@ -577,3 +577,11 @@ DOMAIN/LANGUGAE :Python<br>
 
 ---
 
+---
+
+NAME : Arjun uchai <br>
+GITHUB : [binayuchai](https://github.com/binayuchai)<br>
+INSTITUTE/COMPANY : NCIT<br>
+DOMAIN/LANGUGAE : C++,Java<br>
+
+---
