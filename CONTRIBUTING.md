@@ -1,9 +1,11 @@
 # CONTRIBUTORS 💻👩‍💻
 
-## NOTE : `Add Your Profile Data Carefully, and before commit  Preview it twice or thrice and match it from previous one.`
+## NOTE : `Add Your Profile Data Carefully,and before commit , Preview it twice or thrice and match it from previous one.`
 
 `Happy contributing folks.🏆👏`
 
+📢 Just Copy the Template and Make sure Append your profile data and the end. If found any other edit in this file.PR will not accepted.
+----
 
 ### Copy the template and append your data below :
 ```
@@ -16,7 +18,7 @@ DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
 ---
 ```
-`Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+`Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains others data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
 
 ---
 
@@ -27,6 +29,23 @@ DOMAIN: Data Science <br>
 
 ---
 
+---
+
+NAME : Ajeet Patel <br>
+GITHUB : [Ajeet1606](github.com/Ajeet1606)<br>
+INSTITUTE/COMPANY : Ewing Chirstian College<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME : Raja sk <br>
+GITHUB : [Raja-s-k](github.com/Raja-s-k)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : HTML<br>
+
+---
 
 ---
 
@@ -52,6 +71,15 @@ NAME : Saurabh Kumar<br>
 GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
+
+---
+
+--- 
+
+NAME: Manan Aggarwal<br>
+GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
+INSTITUTE: JIIMS Technical Collage<br>
+DOMAIN?LANGUAGE: C++,JAVA<br>
 
 ---
 
@@ -486,11 +514,13 @@ INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
+
 NAME : Anushka Paliwal <br>
 GITHUB : [Anushka298](https://github.com/Anushka298)<br>
 INSTITUTE/COMPANY : SRMIST<br>
 DOMAIN/LANGUGAE : C++<br>
 
+---
 
 ---
 
@@ -516,6 +546,26 @@ NAME : Sirshak Bohara <br>
 GITHUB : [sirshakbohara](https://github.com/sirshakbohara)<br>
 INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
 DOMAIN/LANGUGAE : C++<br>
+
+---
+
+---
+
+NAME : Monimoy Saha <br>
+GITHUB : [0x44454c](https://github.com/0x44454c)<br>
+INSTITUTE/COMPANY : GCETTB<br>
+DOMAIN/LANGUGAE : C<br>
+
+---
+
+---
+
+NAME : Rohan Raju Meshram<br>
+GITHUB : [RohanKGP](https://github.com/RohanKGP)<br>
+INSTITUTE/COMPANY : Indian Institute of Technology Kharagpur<br>
+DOMAIN/LANGUGAE : Web Development,C++<br>
+
+---
 
 ---
 
