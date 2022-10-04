@@ -1,9 +1,11 @@
 # CONTRIBUTORS 💻👩‍💻
 
-## NOTE : `Add Your Profile Data Carefully, and before commit  Preview it twice or thrice and match it from previous one.`
+## NOTE : `Add Your Profile Data Carefully,and before commit , Preview it twice or thrice and match it from previous one.`
 
 `Happy contributing folks.🏆👏`
 
+📢 Just Copy the Template and Make sure Append your profile data and the end. If found any other edit in this file.PR will not accepted.
+----
 
 ### Copy the template and append your data below :
 ```
@@ -14,15 +16,19 @@ GITHUB : [UserName](Profile_Link)<br>
 INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
-
-`Sample Data after appending the data it looks like ☝☝ :
-(Don't Make error while editing this file. Since it contains other data)
-Only Commit when it looks same as above updated profile details looks
-else it will rejected.`
-=======
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+
+---
+
+
+NAME : Saurabh Kumar <br>
+GITHUB : [py3-coder](github.com/py3-coder) <br>
+INSTITUTE/COMPANY : Galgotias University <br>
+DOMAIN: Data Science <br>
+
+---
 
 ---
 
@@ -32,6 +38,7 @@ INSTITUTE/COMPANY : Ewing Chirstian College<br>
 DOMAIN/LANGUGAE : C++<br>
 
 ---
+
 ---
 
 NAME : Raja sk <br>
@@ -40,17 +47,6 @@ INSTITUTE/COMPANY : Amrita University<br>
 DOMAIN/LANGUGAE : HTML<br>
 
 ---
-
-
----
-
-NAME : Saurabh Kumar <br>
-GITHUB : [py3-coder](github.com/py3-coder) <br>
-INSTITUTE/COMPANY : Galgotias University <br>
-DOMAIN: Data Science <br>
-
----
-
 
 ---
 
@@ -77,7 +73,7 @@ GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
 
-----
+---
 
 --- 
 
@@ -519,11 +515,13 @@ INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
 
 ---
+
 NAME : Anushka Paliwal <br>
 GITHUB : [Anushka298](https://github.com/Anushka298)<br>
 INSTITUTE/COMPANY : SRMIST<br>
 DOMAIN/LANGUGAE : C++<br>
 
+---
 
 ---
 
@@ -551,6 +549,25 @@ INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
 DOMAIN/LANGUGAE : C++<br>
 
 ---
+
+---
+
+NAME : Monimoy Saha <br>
+GITHUB : [0x44454c](https://github.com/0x44454c)<br>
+INSTITUTE/COMPANY : GCETTB<br>
+DOMAIN/LANGUGAE : C<br>
+
+---
+
+---
+
+NAME : Rohan Raju Meshram<br>
+GITHUB : [RohanKGP](https://github.com/RohanKGP)<br>
+INSTITUTE/COMPANY : Indian Institute of Technology Kharagpur<br>
+DOMAIN/LANGUGAE : Web Development,C++<br>
+
+---
+
 ---
 
 NAME : d-coder111 <br>
