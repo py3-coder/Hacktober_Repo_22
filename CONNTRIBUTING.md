@@ -577,3 +577,12 @@ DOMAIN/LANGUGAE :Python<br>
 
 ---
 
+---
+
+NAME : laptopapik <br>
+GITHUB : [laptopapik](https://github.com/laptopapik)<br>
+INSTITUTE/COMPANY :NA<br>
+DOMAIN/LANGUGAE :Javascript<br>
+
+---
+
