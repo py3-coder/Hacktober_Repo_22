@@ -23,6 +23,15 @@ else it will rejected.`
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+
+---
+
+NAME : Ajeet Patel <br>
+GITHUB : [Ajeet1606](github.com/Ajeet1606)<br>
+INSTITUTE/COMPANY : Ewing Chirstian College<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
 ---
 
 NAME : Raja sk <br>
