@@ -434,13 +434,4 @@ DOMAIN/LANGUGAE YOU HAD CONTRIBUTED TO :C++  <br>
 
 ---
 
-NAME : Rohit Jaiswal <br>
-GITHUB : [Rohit Jaiswal](https://github.com/king-rohit777)<br>
-INSTITUTE/COMPANY : Sinhgad College Of Engineering<br>
-DOMAIN/LANGUAGE : C++<br>
-
----
-
----
-
 
