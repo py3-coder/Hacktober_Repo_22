@@ -14,9 +14,24 @@ GITHUB : [UserName](Profile_Link)<br>
 INSTITUTE/COMPANY : College Name/Company Name<br>
 DOMAIN/LANGUGAE : Andriod/Java/Python/....<br>
 
+
+`Sample Data after appending the data it looks like ☝☝ :
+(Don't Make error while editing this file. Since it contains other data)
+Only Commit when it looks same as above updated profile details looks
+else it will rejected.`
+=======
 ---
 ```
 `Sample Data after appending the data it looks like  👇👇: (Don't Make error while editing this file. Since it contains other data) Only Commit when it looks same as above updated profile details looks else it will rejected.`
+---
+
+NAME : Raja sk <br>
+GITHUB : [Raja-s-k](github.com/Raja-s-k)<br>
+INSTITUTE/COMPANY : Amrita University<br>
+DOMAIN/LANGUGAE : HTML<br>
+
+---
+
 
 ---
 
@@ -52,6 +67,15 @@ NAME : Saurabh Kumar<br>
 GITHUB : github.com/runtime-error2905<br>
 INSTITUTE/COMPANY : Galgotias College <br>
 DOMAIN/LANGUGAE : JAVA<br>
+
+----
+
+--- 
+
+NAME: Manan Aggarwal<br>
+GITHUB: [mananaggarwal2001](https://github.com/mananaggarwal2001)<br>
+INSTITUTE: JIIMS Technical Collage<br>
+DOMAIN?LANGUAGE: C++,JAVA<br>
 
 ---
 
@@ -223,15 +247,6 @@ NAME : Avid Coder<br>
 GITHUB : github.com/qyu4x<br>
 INSTITUTE/COMPANY : NULL<br>
 DOMAIN/LANGUGAE : JS<br>
-
----
-
----
-
-NAME : Swayamshree Mohanty  <br>
-GITHUB : [Swayms-stack](https://github.com/Swayms-stack) <br>
-INSTITUTE/COMPANY : Christ University, Lavasa <br>
-DOMAIN/LANGUGAE : Java <br>
 
 ---
 
@@ -444,6 +459,33 @@ DOMAIN: Python <br>
 
 ---
 
+NAME : Vikash Maurya <br>
+GITHUB : [kalvik09](https://github.com/kalvik09) <br>
+INSTITUTE/COMPANY : KIET Group Of Institutions <br>
+DOMAIN/LANGUGAE : Python <br>
+
+---
+
+---
+
+NAME :  Souvik Banerjee <br>
+GITHUB :  [Souvik2376](https://github.com/Souvik2376) <br>
+INSTITUTE/COMPANY : Techno International Newtown <br>
+DOMAIN: JAVA<br>
+
+---
+
+---
+
+NAME :  Shivam Dubey <br>
+GITHUB : https://github.com/arjsivam <br>
+INSTITUTE/COMPANY : Galgotias College of Engineering and Technology <br>
+DOMAIN/language: C++ <br>
+
+---
+
+---
+
 NAME : Pradeep Khatri <br>
 GITHUB : [PradeepKhatri](https://github.com/PradeepKhatri) <br>
 INSTITUTE/COMPANY : - <br>
@@ -466,6 +508,46 @@ NAME : Sahil Kumar<br>
 GITHUB : [sahilsujeet1](https://github.com/sahilsujeet1)<br>
 INSTITUTE/COMPANY :  Chandigarh University<br>
 DOMAIN/LANGUGAE : Web Development, C++, Python, Java<br>
+
+---
+NAME : Anushka Paliwal <br>
+GITHUB : [Anushka298](https://github.com/Anushka298)<br>
+INSTITUTE/COMPANY : SRMIST<br>
+DOMAIN/LANGUGAE : C++<br>
+
+
+---
+
+NAME : Chidambaram Sathappan <br>
+GITHUB : [imGaneshS](https://github.com/imGaneshS)<br>
+INSTITUTE/COMPANY : Anna University<br>
+DOMAIN/LANGUAGE : Python<br>
+
+---
+
+---
+
+NAME : Ankit Kumar<br>
+GITHUB : [ankitkumar174](https://github.com/ankitkumar174)<br>
+INSTITUTE/COMPANY :  Guru Gobind Singh Indrprastha University<br>
+DOMAIN/LANGUGAE : Python<br>
+
+---
+
+---
+
+NAME : Sirshak Bohara <br>
+GITHUB : [sirshakbohara](https://github.com/sirshakbohara)<br>
+INSTITUTE/COMPANY : [St. Xavier's College](https://sxc.edu.np)<br>
+DOMAIN/LANGUGAE : C++<br>
+
+---
+---
+
+NAME : d-coder111 <br>
+GITHUB : [d-coder111](https://github.com/d-coder111)<br>
+INSTITUTE/COMPANY :NA<br>
+DOMAIN/LANGUGAE :Python<br>
 
 ---
 
