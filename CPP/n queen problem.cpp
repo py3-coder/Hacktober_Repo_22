@@ -46,5 +46,6 @@ bool checkSolution() {
    return true;
 }
 int main() {
+   
    checkSolution();
 }
