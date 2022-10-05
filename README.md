@@ -64,6 +64,17 @@ Contributions done to the `Correct Directory`  will only considered for Hacktobe
 
 ## STEP-4. Now You are ready For next PR.
 
+## How to make a pull request
+1. Go to the pull request tab.
+2. Click on new pull request.
+3. Describe the pull request.
+4. Click on create pull request.
+
+## How to create an issue
+1. Go to the issues tab.
+2. Click on new issue.
+3. Describe the issue.
+4. Click on submit new issue.
 ```
 '''
 You are always advised to make more then 4 pull request
