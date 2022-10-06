@@ -7,5 +7,14 @@
 ## Steps 6: Then also we find incorrect your request will be cancelled.
 
 <table>
-  <th>Serial No.</th>
+  <tr>
+    <th>Serial No.</th>
+    <th>Name of Program</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>col1</td>
+    <td>col2</td>
+    <td>col3</td>
+  </td>
 </table>
