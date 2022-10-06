@@ -8,7 +8,8 @@
 #kisi particular pos pe searching krni hai to use{}
  #searching back se ho to $
 import re
-email_condition="^[a-z]+[\._]?[a-z 0-9]+[@]\w+[.]\w{2,3}$"
+# email_condition="^[a-z]+[\._]?[a-z 0-9]+[@]\w+[.]\w{2,5}$"
+email_condition="^[a-z]+[\._]?[a-z 0-9]+[@]\w+(\.[A-Z|a-z]{2,})+"
 user_email=input("enter your email : ")
 #use this regex fun for matching the condition to input 
 if re.search(email_condition,user_email):
