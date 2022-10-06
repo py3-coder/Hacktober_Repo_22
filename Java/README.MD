@@ -6,7 +6,7 @@
 ## Steps 5: Else We will Re-verify the code for conformation.
 ## Steps 6: Then also we find incorrect your request will be cancelled.
 
-<table>
+<table align = "center">
   <tr>
     <th>Serial No.</th>
     <th>Name of Program</th>
