@@ -6,7 +6,7 @@
 ## Steps 5: Else We will Re-verify the code for conformation.
 ## Steps 6: Then also we find incorrect your request will be cancelled.
 
-## <u>Step 7</u> : Copy the following template and remove the boilerplate data ,i.e., [Serial No.], [Name of Program] & [Link of Program] and add to the table provided below -
+## Step 7 : Copy the following template and remove the boilerplate data ,i.e., [Serial No.], [Name of Program] & [Link of Program] and add to the table provided below - <br>
 
 ```
  <tr>
