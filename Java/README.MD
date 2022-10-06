@@ -10,9 +10,9 @@
 
 ```
  <tr>
-    <td  align="center">1.</td>
-    <td>Calculator Using Applet</td>
-    <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
+    <td  align="center"> <Serial No.> </td>
+    <td> <Name of Program> </td>
+    <td> <Link of Program> </td>
   </tr>
 ```
 
