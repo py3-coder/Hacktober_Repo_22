@@ -5,7 +5,7 @@
 `♦ Read Step 7 Carefully ♦: `
 
 ### ❄ Steps 1: For Programs add a program_name.cpp with proper indetation and explanation.(Not give long name for program keep it sort and precise)
-### ❄ Steps 2: For Any CP Project Create a Folder/dir with name of Project .(Try to give Justfied name to Project)
+### ❄ Steps 2: For Any CPP Project Create a Folder/dir with name of Project .(Try to give Justfied name to Project)
 ### ❄ Steps 3: Commit and generate Pull request.
 ### ❄ Steps 4: If Everthing is correct in Project/Program .Your request will be merged within 3-4 hours.
 ### ❄ Steps 5: Else We will Re-verify the code for conformation.
@@ -13,7 +13,7 @@
 
 
 ### ❄ `Step 7 : Copy the following template and remove the boilerplate data ,i.e., [Serial No.], [Name of Program] & [Link of Program] and add to the table provided below -` 
-### Follow the Order as the file in JAVA Folder. DON'T MAKE ANY-CHNAGES JUST FOLLOW THE ORDER :
+### Follow the Order as the file in CPP Folder. DON'T MAKE ANY-CHNAGES JUST FOLLOW THE ORDER :
 <br>
 
 ```
