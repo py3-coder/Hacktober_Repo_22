@@ -17,22 +17,45 @@
 ```
 <br><br>
 
-<table border="5" color="red" align = "center">
-  <tr>
-    <th align="center">Serial No.</th>
-    <th>Name of Program</th>
-    <th>Link</th>
-  </tr>
-  
-  
-  <tr>
-    <td  align="center"> 1. </td>
-    <td>Calculator Using Applet</td>
-    <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
-  </tr>
- 
- 
- <!-- ADD THE TEMPLATE BELOW -->
-  
-  
-</table>
+
+<html>
+ <head>
+  <style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    text-align: left;
+    padding: 8px;
+    background-color: #D6EEEE;
+  }
+
+  tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+  </style>
+ </head>
+ <body>
+  <table border="5" color="red" align = "center">
+    <tr>
+      <th align="center">Serial No.</th>
+      <th>Name of Program</th>
+      <th>Link</th>
+    </tr>
+
+
+    <tr>
+      <td  align="center"> 1. </td>
+      <td>Calculator Using Applet</td>
+      <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
+    </tr>
+
+
+   <!-- ADD THE TEMPLATE BELOW -->
+
+
+  </table>
+ </body>
+</html>
