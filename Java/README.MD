@@ -8,12 +8,12 @@
 
 <table align = "center">
   <tr>
-    <th>Serial No.</th>
+    <th align="center">Serial No.</th>
     <th>Name of Program</th>
     <th>Link</th>
   </tr>
   <tr>
-    <td>1.</td>
+    <td  align="center">1.</td>
     <td>Calculator Using Applet</td>
     <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
   </td>
