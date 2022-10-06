@@ -1,0 +1,178 @@
+install.packages("readxl")
+library("readxl")
+install.packages("ggplot2")
+install.packages("viridis")
+install.packages("plotly")
+install.packages("tidyverse")
+install.packages("hrbrthemes")
+library("ggplot2")
+library("tidyverse")
+library(dplyr)
+library(hrbrthemes)
+library(viridis)
+library(plotly)
+#Introducing the Data
+Covid <- read_excel("D:/COVID19.xlsx")     #COVID19 Dataset
+View(Covid)
+colnames(Covid)
+str(Covid)
+colSums(is.na(Covid))   # Checking null values
+summary(Covid)
+
+#Data Cleaning
+install.packages("dplyr")
+library(dplyr)
+#Remove the data not useful in predicting outcomes
+Covid <- select(Covid,-1,-9,-19,-20)
+summary(Covid)
+#Variables with no or very less data will have no effect on the target variable
+colnames(Covid)
+Covid <- select(Covid,-16)
+summary(Covid)
+# Changing age,death and  recovered columns' data types
+colSums(is.na(Covid)) 
+Covid$age[Covid$age == "NA" ] <- NA
+Covid$age <- as.numeric(Covid$age)
+Covid$death[Covid$death == "NA" ] <- NA
+Covid$death <- as.numeric(Covid$death)
+Covid$recovered[Covid$recovered == "NA" ] <- NA
+Covid$recovered <- as.numeric(Covid$recovered)
+Covid$If_onset_approximated[Covid$If_onset_approximated == "NA" ] <- NA
+Covid$If_onset_approximated <- as.numeric(Covid$If_onset_approximated)
+colSums(is.na(Covid)) 
+summary(COVID19)
+View(Covid)
+str(Covid)
+
+# Finding mean of age column and replacing NA , cases in country
+mean(Covid$age,na.rm=TRUE)
+mean(age)
+Covid$age[which(is.na(Covid$age))] <-mean(Covid$age,na.rm= TRUE)
+Covid$age = round(Covid$age,0)
+which(!complete.cases(Covid$age))
+Covid$case_in_country[which(is.na(Covid$case_in_country))] <-mean(Covid$case_in_country,na.rm= TRUE)
+Covid$case_in_country = round(Covid$case_in_country,0)
+
+# Replacing "NA" strings with NA, then replacing with mode
+Covid$gender[ Covid$gender == "NA" ] <- NA
+mode <- function(x) {                                               #So that NA won't be the mode
+  ux <- na.omit(unique(x))
+  tab <- tabulate(match(x,ux)); ux[tab == max(tab)]
+}
+Covid$gender[is.na(Covid$gender)] <- mode(Covid$gender)
+# Death and Recovered columns
+median <- function(x) {
+  ux <- na.omit(unique(x))
+  tab <- tabulate(match(x,ux)); ux[tab == max(tab)]
+}
+mode(Covid$recovered) # Finding mode
+mode(Covid$death)
+mode(Covid$If_onset_approximated)
+Covid$death[is.na(Covid$death)] <- mode(Covid$death) #Converting NA to mode
+Covid$recovered[is.na(COVID19$recovered)] <- mode(Covid$recovered)
+Covid$If_onset_approximated[is.na(Covid$If_onset_approximated)] <- mode(Covid$If_onset_approximated)
+install.packages("dplyr")
+library(dplyr)
+filter(Covid, death>1) # to find values greater than 1
+filter(Covid, recovered>1) 
+# Replacing such values in column with mode 
+Covid$death[Covid$death > 1] <- 0 
+Covid$recovered[Covid$recovered > 1] <- 0
+#As part of the data cleaning process, we have to convert text data to numerical because computers understand only numbers
+
+# Removing Outliers
+boxplot(Covid$age,xlab="Age",ylab="Max Age",col="#0c4c8a",border="brown",horizontal = TRUE,notch=TRUE)
+dfw = Covid$age
+dfw_Q1=quantile(Covid$age,probs = 0.25)
+dfw_Q3=quantile(Covid$age,probs = 0.75)
+dfw_IQR=dfw_Q3 - dfw_Q1
+dfw_IQR
+dfw_lowerend = dfw_Q1 - (1.5 * dfw_IQR)
+dfw_upperend = dfw_Q3 + (1.5 * dfw_IQR)
+dfw_outliers = dfw[(dfw < dfw_lowerend) | (dfw > dfw_upperend)]
+dfw_outliers
+Covid <- Covid[!(Covid$age < dfw_lowerend | Covid$age > dfw_upperend),]
+View(Covid)
+
+# BUBBLE PLOT
+
+# SPREAD OF PANDEMIC AROUND THE WORLD
+
+ggplot(Covid, aes(x= age, y= country, size = If_onset_approximated))+
+  geom_point(alpha = 0.5, color ='dark green') 
+
+# ANALYZING DEATH AND RECOVEREY RATES
+
+# 
+# Country wise DEATH RATE of people in different ages
+ggplot(Covid, aes(x= age, y= death , size = age, color = case_in_country))+
+  geom_point(alpha = 0.5, color = 'light blue') +
+  facet_wrap(~country)
+scale_size(range =c(1,20), name ='Cases in country')+
+  scale_fill_viridis(discrete = T, guide =F, option = 'A')
+
+# Country wise RECOVEREY RATE of people 
+ggplot(Covid, aes(x= age, y= recovered , size = age, color = case_in_country))+
+  geom_point(alpha = 0.5, color = 'light pink') +
+  facet_wrap(~country) #Countrywise covid cases 
+ggplot(Covid, aes(x= age , y= country , size = case_in_country, color = If_onset_approximated))+
+  geom_point(alpha = 0.5, color = 'coral1') +
+  scale_size(range =c(1,20), name ='Cases in country')+
+  scale_fill_viridis(discrete = T, guide =F, option = 'A')
+
+scale_size(range =c(1,20), name ='Cases in country')+
+  scale_fill_viridis(discrete = T, guide =F, option = 'A')
+
+# HYPOTHESIS TEST FOR "AGE" and "DEATH"
+#As part of the data cleaning process, we have to convert text data to numerical because computers understand only numbers
+install.packages("superml")
+library(superml)
+label <- LabelEncoder$new()    # Using Label Encoder
+Covid$gender <- label$fit_transform(Covid$gender)
+str(Covid)
+# Four columns have categorical text info, and we convert them to numbers
+# Covid$country <- label$fit_transform(Covid$country)
+# According to reports older people are more likely to die compared to younger people.
+# Hypothesis to analyze the age of the people who have died and of those who did not.
+patient_dead = subset(Covid, death == 1)
+patient_alive = subset(Covid, death == 0)
+mean(patient_dead$age)
+mean(patient_alive$age)
+# We get mean age of dead people as 68 yrs and that of survived patients as 49 yrs
+# So our data shows that older are more likely to die.
+# But these results are based on the sample collected. Lets check if this is true for the population.
+t.test(patient_dead$age,patient_alive$age,alternative="two.sided",conf.level = 0.95)  #Considering 95% confidence level
+# From the above hypothesis we can say that the mean age between dead and alive patients is between 15.57 yrs to 23.40 yrs
+# The p-value is almost eqaul to 0, confirming that there is 0% chance of the age of dead and alive patients being same.
+# As p-value < significance level, WE REJECT NULL HYPOTHESIS
+
+# HYPOTHESIS TEST FOR "GENDER" and "DEATH"
+# According to reports older people are more likely to die compared to younger people.
+# Hypothesis to analyze the age of the people who have died and of those who did not.
+male = subset(Covid, gender == 0)
+female = subset(Covid, gender == 1)
+mean(male$death)
+mean(female$death)
+# We get mean death rate in men as 3.2% and that in women as 3.9%
+# So our data shows that there is no much difference in death rate in men and women.
+# But these results are based on the sample collected. Lets check if this is true for the population.
+t.test(male$death,female$death,alternative="two.sided",conf.level = 0.95)  #Considering 95% confidence level
+# From the above hypothesis we can say that the mean death rate between males and females between -0.03% and 0.15%
+# The p-value is eqaul to 0.53, confirming that the mean death rate in males and females is almost same.
+# As p-value > significance level, WE FAIL TO REJECT NULL HYPOTHESIS
+
+# HYPOTHESIS TEST FOR "SYMPTOM DETECTION" and "DEATH"
+# According to reports there have been cases of asymptomatic patients dying.
+# Hypothesis to analyze the symptoms of the people who have died and of those who did not.
+symptomatic = subset(Covid, If_onset_approximated == 0)
+non_symptomatic = subset(Covid, If_onset_approximated == 1)
+mean(symptomatic$death)
+mean(non_symptomatic$death)
+# We get mean death rate in symptomatic patients as 3.7% and that in asymptomatic patients as 0%
+# So our data shows that the death rate in asymptomatic people is almost negligible.
+# That means most deaths occur in patients that are showing covid symptoms
+# But these results are based on the sample collected. Lets check if this is true for the population.
+t.test(symptomatic$death,non_symptomatic$death,alternative="two.sided",conf.level = 0.95)  #Considering 95% confidence level
+# From the above hypothesis we can say that the mean death rate between symptomatic and asymtomatic patients is between 2.6% to 4.95
+# The p-value is almost equal to 0, confirming that the mean death rate in in symptomatic and asymtomatic patients is not same.
+# As p-value < significance level, WE REJECT NULL HYPOTHESIS
