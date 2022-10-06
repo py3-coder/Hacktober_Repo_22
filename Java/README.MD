@@ -24,23 +24,27 @@
   </tr>
 ```
 
-<table align = "center">
+
+
+<table border="5" align = "center">
   <tr>
     <th align="center">Serial No.</th>
     <th>Name of Program</th>
     <th>Link</th>
   </tr>
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------> 
 <!-------------------------------DO NOT EDIT ANYTHING BEFORE THIS LINE (INCLUSIVE)------------------------------------------------------------------------------> 
 <!------JUST FOLLOW THE ORDER OF FILE AS IT IS IN JAVA FOLDER AFTER CONTRIBUTION YOUR FOLDER/FILE GOT THE POSTION IN FOLDER(MAKE SURE YOU ADD AFTER SEEING BEFOR AND AFTER PROGRAM---------------HOPE YOU ALL WILL FOLLOW------> 
+
   <tr>
     <td  align="center"> 1. </td>
     <td>Calculator Using Applet</td>
     <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
   </tr>
- 
- 
- <!-- ADD THE TEMPLATE BELOW -->
-  
-  
+
+
+  <!-- ADD THE TEMPLATE BELOW -->
+
+
 </table>
