@@ -18,23 +18,8 @@
 <br><br>
 
 
-  <style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
 
-  th {
-    text-align: left;
-    padding: 8px;
-    background-color: #D6EEEE;
-  }
-
-  tr:nth-child(even) {
-    background-color: #D6EEEE;
-  }
-  </style>
-<table border="5" color="red" align = "center">
+<table border="5" align = "center">
   <tr>
     <th align="center">Serial No.</th>
     <th>Name of Program</th>
