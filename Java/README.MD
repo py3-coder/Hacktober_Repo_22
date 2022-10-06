@@ -31,7 +31,7 @@
     <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
   </tr>
  
- 
+ <!-- ADD THE TEMPLATE BELOW -->
   
   
 </table>
