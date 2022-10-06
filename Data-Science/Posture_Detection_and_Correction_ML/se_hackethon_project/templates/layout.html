@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='profile_pics/main_cam.ico') }}">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='main.css') }}">
+  <title>{{title}}</title>
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand"><h1>FIX<span>YOURSELF</span></h1></a>
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class='nav-link' href="{{ url_for('home') }}">Home <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+        <ul class="nav nav-tabs justify-content-end">
+          {% if current_user.is_authenticated %}
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('account') }}">Profile</a>
+            </li>
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('suggestions') }}">Any Suggestions ?</a>
+            </li>
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('all_posts') }}">Get Inspired</a>
+            </li>
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('new_post') }}">Create a post</a>
+            </li>
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('logout') }}">LogOut</a>
+            </li>
+          {% else %}
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('login') }}">LogIn</a>
+            </li>
+            <li class="nav-item">
+              <a class='nav-link' href="{{ url_for('register') }}">Register</a>
+            </li>
+          {% endif %}
+        </ul>
+    </nav>
+
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8">
+          {% with messages=get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+              {% for category,message in messages %}
+                <div class="alert alert-{{category}}">
+                  {{message}}
+                </div>
+              {% endfor %}
+            {% endif %}
+          {% endwith %}
+          {% block content %}{% endblock %}
+        </div>
+      </div>
+    </main>
+
+    <!-- JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+  </body>
+</html>

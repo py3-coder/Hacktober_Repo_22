@@ -1,0 +1,4 @@
+# AdrshCode
+
+print(eval(input()))
+
