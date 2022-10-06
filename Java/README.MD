@@ -13,8 +13,8 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>col1</td>
-    <td>col2</td>
-    <td>col3</td>
+    <td>1.</td>
+    <td>Calculator Using Applet</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
   </td>
 </table>
