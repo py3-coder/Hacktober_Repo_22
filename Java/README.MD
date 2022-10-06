@@ -13,9 +13,13 @@
     <th>Name of Program</th>
     <th>Link</th>
   </tr>
+  
+  
   <tr>
     <td  align="center">1.</td>
     <td>Calculator Using Applet</td>
     <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
-  </td>
+  </tr>
+  
+  
 </table>
