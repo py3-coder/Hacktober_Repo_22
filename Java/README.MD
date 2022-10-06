@@ -17,7 +17,7 @@
 ```
 <br><br>
 
-<table align = "center">
+<table border="5" bgcolor="red" align = "center">
   <tr>
     <th align="center">Serial No.</th>
     <th>Name of Program</th>
