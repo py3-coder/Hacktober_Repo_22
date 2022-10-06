@@ -6,13 +6,13 @@
 ## Steps 5: Else We will Re-verify the code for conformation.
 ## Steps 6: Then also we find incorrect your request will be cancelled.
 
-### Copy the following template and remove the boilerplate data and add to the table provided below -
+### Copy the following template and remove the boilerplate data ,i.e., [Serial No.], [Name of Program] & [Link of Program] and add to the table provided below -
 
 ```
  <tr>
-    <td  align="center"> <Serial No.> </td>
-    <td> <Name of Program> </td>
-    <td> <Link of Program> </td>
+    <td  align="center"> [Serial No.] </td>
+    <td> [Name of Program] </td>
+    <td> [Link of Program] </td>
   </tr>
 ```
 
@@ -30,6 +30,8 @@
     <td>Calculator Using Applet</td>
     <td>https://github.com/py3-coder/Hacktober_Repo_22/tree/main/Java/CalculatorUsingApplet</td>
   </tr>
+ 
+ 
   
   
 </table>
