@@ -1,0 +1,135 @@
+Data science
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Not to be confused with information science.
+
+The existence of Comet NEOWISE (here depicted as a series of red dots) was discovered by analyzing astronomical survey data acquired by a space telescope, the Wide-field Infrared Survey Explorer.
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.[3]
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyse actual phenomena" with data.[4] It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.[3] However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.[5][6]
+
+A data scientist is someone who creates programming code and combines it with statistical knowledge to create insights from data.[7]
+
+
+Contents
+1	Foundations
+1.1	Relationship to statistics
+2	Etymology
+2.1	Early usage
+2.2	Modern usage
+3	See also
+4	References
+Foundations
+Data science is an interdisciplinary field[8] focused on extracting knowledge from typically large data sets and applying the knowledge and insights from that data to solve problems in a wide range of application domains.[9] The field encompasses preparing data for analysis, formulating data science problems, analyzing data, developing data-driven solutions, and presenting findings to inform high-level decisions in a broad range of application domains. As such, it incorporates skills from computer science, statistics, information science, mathematics, data visualization, information visualization, data sonification, data integration, graphic design, complex systems, communication and business.[10][11] Statistician Nathan Yau, drawing on Ben Fry, also links data science to human–computer interaction: users should be able to intuitively control and explore data.[12][13] In 2015, the American Statistical Association identified database management, statistics and machine learning, and distributed and parallel systems as the three emerging foundational professional communities.[14]
+
+Relationship to statistics
+Many statisticians, including Nate Silver, have argued that data science is not a new field, but rather another name for statistics.[15] Others argue that data science is distinct from statistics because it focuses on problems and techniques unique to digital data.[16] Vasant Dhar writes that statistics emphasizes quantitative data and description. In contrast, data science deals with quantitative and qualitative data (e.g. from images, text, sensors, transactions or customer information etc) and emphasizes prediction and action.[17] Andrew Gelman of Columbia University has described statistics as a nonessential part of data science.[18]
+
+Stanford professor David Donoho writes that data science is not distinguished from statistics by the size of datasets or use of computing, and that many graduate programs misleadingly advertise their analytics and statistics training as the essence of a data-science program. He describes data science as an applied field growing out of traditional statistics.[19]
+
+Etymology
+Early usage
+In 1962, John Tukey described a field he called "data analysis", which resembles modern data science.[19] In 1985, in a lecture given to the Chinese Academy of Sciences in Beijing, C. F. Jeff Wu used the term "data science" for the first time as an alternative name for statistics.[20] Later, attendees at a 1992 statistics symposium at the University of Montpellier II acknowledged the emergence of a new discipline focused on data of various origins and forms, combining established concepts and principles of statistics and data analysis with computing.[21][22]
+
+The term "data science" has been traced back to 1974, when Peter Naur proposed it as an alternative name for computer science.[3] In 1996, the International Federation of Classification Societies became the first conference to specifically feature data science as a topic.[3] However, the definition was still in flux. After the 1985 lecture in the Chinese Academy of Sciences in Beijing, in 1997 C. F. Jeff Wu again suggested that statistics should be renamed data science. He reasoned that a new name would help statistics shed inaccurate stereotypes, such as being synonymous with accounting, or limited to describing data.[23] In 1998, Hayashi Chikio argued for data science as a new, interdisciplinary concept, with three aspects: data design, collection, and analysis.[22]
+
+During the 1990s, popular terms for the process of finding patterns in datasets (which were increasingly large) included "knowledge discovery" and "data mining".[3][24]
+
+Modern usage
+The modern conception of data science as an independent discipline is sometimes attributed to William S. Cleveland.[25] In a 2001 paper, he advocated an expansion of statistics beyond theory into technical areas; because this would significantly change the field, it warranted a new name.[24] "Data science" became more widely used in the next few years: in 2002, the Committee on Data for Science and Technology launched Data Science Journal. In 2003, Columbia University launched The Journal of Data Science.[24] In 2014, the American Statistical Association's Section on Statistical Learning and Data Mining changed its name to the Section on Statistical Learning and Data Science, reflecting the ascendant popularity of data science.[26]
+
+The professional title of "data scientist" has been attributed to DJ Patil and Jeff Hammerbacher in 2008.[27] Though it was used by the National Science Board in their 2005 report "Long-Lived Digital Data Collections: Enabling Research and Education in the 21st Century", it referred broadly to any key role in managing a digital data collection.[28]
+
+There is still no consensus on the definition of data science, and it is considered by some to be a buzzword.[29] Big data is a related marketing term.[30] Data scientists are responsible for breaking down big data into usable information and creating software and algorithms that help companies and organizations determine optimal operations.[31]
+
+See also
+Open Data Science Conference
+Scientific Data
+References
+ Dhar, V. (2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147. Archived from the original on 9 November 2014. Retrieved 2 September 2015.
+ Jeff Leek (12 December 2013). "The key word in "Data Science" is not Data, it is Science". Simply Statistics. Archived from the original on 2 January 2014. Retrieved 1 January 2014.
+ Cao, Longbing (29 June 2017). "Data Science: A Comprehensive Overview". ACM Computing Surveys. 50 (3): 43:1–43:42. doi:10.1145/3076253. ISSN 0360-0300.
+ Hayashi, Chikio (1 January 1998). "What is Data Science? Fundamental Concepts and a Heuristic Example". In Hayashi, Chikio; Yajima, Keiji; Bock, Hans-Hermann; Ohsumi, Noboru; Tanaka, Yutaka; Baba, Yasumasa (eds.). Data Science, Classification, and Related Methods. Studies in Classification, Data Analysis, and Knowledge Organization. Springer Japan. pp. 40–51. doi:10.1007/978-4-431-65950-1_3. ISBN 9784431702085.
+ Tony Hey; Stewart Tansley; Kristin Michele Tolle (2009). The Fourth Paradigm: Data-intensive Scientific Discovery. Microsoft Research. ISBN 978-0-9825442-0-4. Archived from the original on 20 March 2017.
+ Bell, G.; Hey, T.; Szalay, A. (2009). "Computer Science: Beyond the Data Deluge". Science. 323 (5919): 1297–1298. doi:10.1126/science.1170411. ISSN 0036-8075. PMID 19265007. S2CID 9743327.
+ Davenport, Thomas H.; Patil, D. J. (October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. 90 (10): 70–76, 128. PMID 23074866. Retrieved 18 January 2016.
+ "Defining data science by a data-driven quantification of the community". Machine Learning and Knowledge Extraction. Retrieved 7 August 2022.
+ "About Data Science". Data Science Association. Retrieved 3 April 2020.
+ "1. Introduction: What Is Data Science?". Doing Data Science [Book]. O’Reilly. Retrieved 3 April 2020.
+ "the three sexy skills of data geeks". m.e.driscoll: data utopian. 27 May 2009. Retrieved 3 April 2020.
+ Yau, Nathan (4 June 2009). "Rise of the Data Scientist". FlowingData. Retrieved 3 April 2020.
+ "Basic Example". benfry.com. Retrieved 3 April 2020.
+ "ASA Statement on the Role of Statistics in Data Science". AMSTATNEWS. American Statistical Association. 1 October 2015. Archived from the original on 20 June 2019. Retrieved 29 May 2019.
+ "Nate Silver: What I need from statisticians". Statistics Views. Retrieved 3 April 2020.
+ "What's the Difference Between Data Science and Statistics?". Priceonomics. Retrieved 3 April 2020.
+ Vasant Dhar (1 December 2013). "Data science and prediction". Communications of the ACM. 56 (12): 64–73. doi:10.1145/2500499. S2CID 6107147.
+ "Statistics is the least important part of data science « Statistical Modeling, Causal Inference, and Social Science". statmodeling.stat.columbia.edu. Retrieved 3 April 2020.
+ Donoho, David (18 September 2015). "50 years of Data Science" (PDF). Retrieved 2 April 2020.
+ Wu, C. F. Jeff (1986). "Future directions of statistical research in China: a historical perspective" (PDF). Application of Statistics and Management. 1: 1–7. Retrieved 29 November 2020.
+ Escoufier, Yves; Hayashi, Chikio; Fichet, Bernard, eds. (1995). Data science and its applications. Tokyo: Academic Press/Harcourt Brace. ISBN 0-12-241770-4. OCLC 489990740.
+ Murtagh, Fionn; Devlin, Keith (2018). "The Development of Data Science: Implications for Education, Employment, Research, and the Data Revolution for Sustainable Development". Big Data and Cognitive Computing. 2 (2): 14. doi:10.3390/bdcc2020014.
+ Wu, C. F. Jeff. "Statistics=Data Science?" (PDF). Retrieved 2 April 2020.
+ Press, Gil. "A Very Short History of Data Science". Forbes. Retrieved 3 April 2020.
+ Gupta, Shanti (11 December 2015). "William S. Cleveland". Retrieved 2 April 2020.
+ Talley, Jill (1 June 2016). "ASA Expands Scope, Outreach to Foster Growth, Collaboration in Data Science". Amstat News. American Statistical Association.
+ Davenport, Thomas H.; Patil, D. J. (1 October 2012). "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. No. October 2012. ISSN 0017-8012. Retrieved 3 April 2020.
+ "US NSF – NSB-05-40, Long-Lived Digital Data Collections Enabling Research and Education in the 21st Century". www.nsf.gov. Retrieved 3 April 2020.
+ Press, Gil. "Data Science: What's The Half-Life of a Buzzword?". Forbes. Retrieved 3 April 2020.
+ Pham, Peter. "The Impacts of Big Data That You May Not Have Heard Of". Forbes. Retrieved 3 April 2020.
+ Martin, Sophia (20 September 2019). "How Data Science will Impact Future of Businesses?". Medium. Retrieved 3 April 2020.
+vte
+Data
+AugmentationAnalysisArchaeologyBigCleansingCollectionCompressionCorruptionCurationDegradationEditingETL/ELT ExtractTransformLoadFarmingFormat managementFusionIntegrationIntegrityLibraryLineageLossManagementMigrationMiningPhilanthropyPre-processingPreservationProtection (privacy)PublishingRecoveryReductionRetentionQualityScienceScrapingScrubbingSecurityStewardshipStorageValidationWarehouseWrangling/munging
+Categories: Information scienceComputer occupationsComputational fields of studyData analysis
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+ArticleTalk
+ReadEditView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikiversity
+
+Languages
+العربية
+বাংলা
+Español
+हिन्दी
+ಕನ್ನಡ
+Русский
+தமிழ்
+اردو
+中文
+32 more
+Edit links
+This page was last edited on 28 August 2022, at 18:44 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
