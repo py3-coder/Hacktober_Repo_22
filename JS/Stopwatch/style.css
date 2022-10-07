@@ -1,0 +1,138 @@
+
+/* Remove intial margin and paddings */
+*{
+    margin: 0px;
+    padding:0px ;
+    box-sizing: border-box;
+}
+body{
+    width: 99vw;
+    height: 99vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#09043b;
+
+}
+
+.wrapper{
+    border: 1px solid black;
+    height: 35%;
+    width: 50%;
+    /* background-color: whitesmoke; */
+}
+/* css for the contdown display part */
+#cntdwn-container{
+width: 95%;
+height: 70%;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin: auto;
+
+}
+.times{
+    width: 25%;
+    
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    color: white;
+    background-color: #87a9f1;
+    
+}
+.times span{
+font-size: 40px;
+}
+.times p{
+    font-size: 15px;
+}
+
+/* css for the controls part */
+.controls{
+    height: 25%;
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid red; */
+    justify-content: space-between;
+    margin: auto;
+}
+.btn-style{
+width: 20%;
+padding:4px;
+font-weight: bolder;
+font-size: 20px;
+color: azure;
+border: none;
+
+}
+.hover:hover{
+    box-shadow: 0px 0px 5px 3px #888888;;
+}
+#start-btn{
+    background-color: rgb(12, 86, 12);
+}
+#stop-btn{
+    background-color: red;
+}
+#reset-btn{
+    background-color: blueviolet;
+}
+
+.active{
+    cursor:not-allowed;
+    opacity: 0.7;
+}
+
+/* media queries */
+
+@media only screen and (max-width:900px) {
+    .wrapper{
+        width: 90%;
+    }
+    .times span{
+        font-size: 60px;
+    }
+    .btn-style{
+        padding: 3px;
+        width: 30%;
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 600px) { 
+    body{
+       
+        justify-content: flex-start;
+        align-items: unset;
+    }
+    .wrapper{
+        width: 100%;
+        margin: 0px;
+    }
+    #cntdwn-container{
+        width: 100%;
+        margin: 0px;
+        width: 100%;
+    }
+    .times span{
+        font-size: 50px;
+    }
+    .times p{
+        font-size: 15px;
+    }
+    .controls{
+        width: 100%;
+        margin: 2px;
+    }
+    .btn-style{
+        width: 30%;
+        padding: 2px;
+        font-size: 27px;
+    }
+}
