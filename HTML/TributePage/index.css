@@ -1,0 +1,42 @@
+.main{
+    background-color:#bfb8b8;
+}
+.heading1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.heading2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.image1{
+    width:800px;
+    height:auto;
+    align-self: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.paragraph1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.heading3{
+    font-family: 'Montserrat', sans-serif; 
+}
+@media screen and (max-width:700px){
+    .paragraph1{
+        font-size:18px;
+    }
+}
+@media screen and (max-width:600px){
+    .paragraph1{
+        font-size:16px;
+    }
+}
+@media screen and (max-width:400px){
+    .paragraph1{
+        font-size:14px;
+    }
+}
