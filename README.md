@@ -1,6 +1,9 @@
 
 # Hacktoberfest 2022 `OPEN Pull Request` - `FREE T-SHIRT's`
 
+# 😢 `DON'T COMMIT ~ PR REPO HAS BEEN EXCULDED ( DON'T KNOW THE EXACT REASON ~ RUMORS ARE THAT THIS YEAR ALL DSA REPO ARE GOING TO EXCLUDED)`
+## THANKS FOR YOU CONTRIBUTION 🧡
+
 
 <p align="center">
   <img width="100" height="100" src="https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Meta_Data/Repo_Data/hacktober.jpg">
