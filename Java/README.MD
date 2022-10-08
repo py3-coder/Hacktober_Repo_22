@@ -45,6 +45,11 @@
 
 
   <!-- ADD THE TEMPLATE BELOW -->
+<tr>
+    <td  align="center"> 2. </td>
+    <td>FEA_analysis_of_cantilever_beam</td>
+    <td>https://github.com/Safhan-Shirgaonkar/Hacktober_Repo_22/blob/main/Python/FEA_analysis_of_cantilever_beam.py</td>
+  </tr>
 
 
 </table>
