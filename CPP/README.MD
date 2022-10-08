@@ -64,7 +64,6 @@
     <td> https://github.com/py3-coder/Hacktober_Repo_22/commit/dd441d7ee0adb3475e0c2eb488b6691e97dd8f25 </td>
   </tr>
   
-
    <tr>
     <td  align="center"> 9. </td>
     <td> Bracket Balancer </td>
@@ -94,8 +93,6 @@
     <td> Program for AVL trees </td>
     <td> https://github.com/py3-coder/Hacktober_Repo_22/commit/1c490802694fcd015922f9032e0c3035a5bf3aa1 </td>
   </tr>
-  
-  
   
    <tr>
     <td  align="center"> 14. </td>
