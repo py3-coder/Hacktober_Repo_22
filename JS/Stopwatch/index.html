@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stopwatch</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png"">
+<link rel="icon" type="image/png" sizes="32x32" href="assests/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assests/favicon/favicon-16x16.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Wrapper will contain the whole stopwatch -->
+    <div class="wrapper">
+        <!-- Div for the stopwatch display -->
+    <div id="cntdwn-container">
+        <!-- Each div has its own time and label -->
+        <div class="times">
+            <span id="hours">00</span>
+            <p>Hour</p>
+        </div>
+        <div class="times">
+            <span id="min">00</span>
+            <p>Minutes</p>
+        </div>
+        <div class="times">
+            <span id="sec">00</span>
+            <p>Seconds</p>
+        </div>
+        <div class="times">
+            <span id="ms">00</span>
+            <p>Millisecond</p>
+        </div>
+    </div>
+    <!-- div for the controls -->
+    <div class="controls">
+        <button type="submit" class="btn-style hover" id="start-btn">Start</button>
+        <button type="submit" class="btn-style hover" id="stop-btn">Stop</button>
+        <button type="submit" class="btn-style hover" id="reset-btn">Reset</button>
+    </div>
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>

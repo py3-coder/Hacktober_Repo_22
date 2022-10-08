@@ -57,6 +57,11 @@ NOTE : Contributions done to the `Correct Directory`  will be considered towards
 ## STEP-1. Add you Project or Program Source file to correct folder.
 Contributions done to the `Correct Directory`  will only considered for Hacktoberfest 2022.
 
+## `HOW TO DO CONTRIBUTION IN DOMAIN/LANGUGAE : JUST SEE THE GUIDELINES (DOMAIN/LAMGUGAE-> README.MD FILE`
+
+>> **For JAVA CONTRIBUTION GUIDELINES -> README.FILE - [README](https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Java/README.MD)**
+
+>> **Similar to that all domain/lamguage contains the README.MD file Read it Once.**
 
 ## STEP-2. Wait for Pull Request to merge
 
