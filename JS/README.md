@@ -45,6 +45,10 @@
 
 
   <!-- ADD THE TEMPLATE BELOW -->
-
+ <tr>
+    <td  align="center"> 2. </td>
+    <td> Profile Card Generator </td>
+    <td> https://github.com/py3-coder/Hacktober_Repo_22/tree/main/JS/Profile-Card%20Creator </td>
+  </tr>
 
 </table>
