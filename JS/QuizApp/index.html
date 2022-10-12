@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz App</title>
+  </head>
+  <body>
+    <h1>let start Quiz</h1>
+    <div class="score"></div>
+    <span>by Akash Verma</span>
+    <div class="container">
+      <div class="Question">
+        <p class="que"></p>
+        <div class="btn">
+          <button onclick="next()">Next</button>
+        </div>
+      </div>
+      <hr />
+      <div class="options">
+        <button onclick="cal()">Submit</button>
+        <ul>
+          <li>
+            <input
+              type="radio"
+              name="option"
+              value="0"
+              class="radioBtn"
+              id="radioBtn1"
+            />
+            <label for="radioBtn1"> <span class="option"></span></label>
+          </li>
+          <li>
+            <input
+              type="radio"
+              name="option"
+              value="1"
+              class="radioBtn"
+              id="radioBtn2"
+            /><label for="radioBtn2"> <span class="option"></span></label>
+          </li>
+
+          <li>
+            <input
+              type="radio"
+              name="option"
+              value="2"
+              class="radioBtn"
+              id="radioBtn3"
+            /><label for="radioBtn3"> <span class="option"></span></label>
+          </li>
+          <li>
+            <input
+              type="radio"
+              name="option"
+              value="3"
+              class="radioBtn"
+              id="radioBtn4"
+            /><label for="radioBtn4"> <span class="option"></span></label>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <script src="./script.js"></script>
+  </body>
+</html>

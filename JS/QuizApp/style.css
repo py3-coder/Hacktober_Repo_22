@@ -1,0 +1,79 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+}
+h1 {
+  text-align: center;
+  display: inline-block;
+  text-transform: uppercase;
+  color: dimgray;
+}
+.score {
+  float: left;
+  width: 90%;
+  height: 80vh;
+  font-size: 5em;
+  margin: 30px 40px;
+  padding-top: 40px;
+  box-sizing: border-box;
+  text-align: center;
+  border: 2px solid blueviolet;
+  display: none;
+}
+.container {
+  display: grid;
+  grid-template-columns: 45% 2% 50%;
+  grid-area: auto;
+  background-color: rgb(236, 237, 175);
+  overflow-y: hidden;
+  padding-top: 20px;
+}
+.container .Question {
+  margin: 50px 20px;
+  padding: 2px;
+}
+
+.container .Question .que {
+  font-size: 2em;
+  color: rgb(57, 40, 40);
+  height: 65vh;
+}
+
+.container .Question .btn button,
+.container .options button {
+  float: right;
+  width: 150px;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.container .Question .btn button:hover,
+.container .options button:hover {
+  border: none;
+  font-size: 22px;
+  border-bottom: 3px solid rebeccapurple;
+}
+
+.container hr {
+  height: 85vh;
+  width: 3px;
+  background-color: rgb(57, 55, 55);
+  border: none;
+}
+
+.container .options ul {
+  margin: 60px 20px;
+}
+.container .options ul li {
+  list-style: none;
+  clear: both;
+  font-size: 1.2em;
+}
+
+.container .options ul li:hover {
+  color: rgb(244, 67, 67);
+  font-size: 1.5em;
+}
