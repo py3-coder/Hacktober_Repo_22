@@ -1,0 +1,54 @@
+*{
+    padding:0;
+    margin:0;
+}
+header{
+    width:65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+header .title{
+    justify-content:center;
+    text-align:center;
+    background-color: antiquewhite;
+
+}
+.title h1{
+    margin-top:30px;
+}
+.title p{
+    font-weight: bold;
+}
+.image img{
+    height:auto;
+    width:100%;
+    display:block;
+    flex-wrap:wrap;
+    border:3px solid black;
+}
+body{
+    width:65%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+body .info{
+    justify-content:center;
+    text-align:center;
+    font-family:sans-serif
+}
+.info h2{
+    margin-top:30px;
+}
+
+
+.col-md-12{
+    background-color:gold;
+    border: 2px solid red;
+}
+.career{
+    background-color:gold;
+    border: 2px solid red;
+
+}
