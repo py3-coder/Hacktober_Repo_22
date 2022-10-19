@@ -1,37 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel= "icon" href="https://image.flaticon.com/icons/png/128/2972/2972531.png">
-    <link rel= "stylesheet" href="./index.css">
+    <link rel="icon" href="https://image.flaticon.com/icons/png/128/2972/2972531.png">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Asset&family=Josefin+Sans:wght@700&display=swap"
+        rel="stylesheet">
     <title>Clock</title>
 </head>
+
 <body onload="time()">
-    <div id= "txt"></div>
+    <div id="txt"></div>
+    <!-- <div class="kk">hello there</div> for teseting the font and styling -->
 
-    
- <script>
-    function time() {
-    const today = new Date();
-    let hour = today.getHours();
-    let min = today.getMinutes();
-    let sec = today.getSeconds();
-     min = checkTime(min);
-    sec = checkTime(sec);
-    document.getElementById('txt').innerHTML = hour + ":" + min + ":" + sec;
-    setTimeout(time, 1000);
-}
+    <script>
+        function time() {
+            const today = new Date();
+            let hour = today.getHours();
+            let min = today.getMinutes();
+            let sec = today.getSeconds();
+            min = checkTime(min);
+            sec = checkTime(sec);
+            document.getElementById('txt').innerHTML = hour + ":" + min + ":" + sec;
+            setTimeout(time, 1000);
+        }
 
-    function checkTime(x){
-    if (x < 10){
-        x = "0" + x;
-    }
-    return x;
-}
+        function checkTime(x) {
+            if (x < 10) {
+                x = "0" + x;
+            }
+            return x;
+        }
 
 
-</script>
+    </script>
 </body>
+
 </html>

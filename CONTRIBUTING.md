@@ -254,3 +254,9 @@ INSTITUTE/COMPANY :  KLE Technological University<br>
 DOMAIN/LANGUGAE : Java<br>
 --------------
 
+-----
+NAME : Prashant prabhakar <br>
+GITHUB : [prash240303](https://github.com/prash240303)<br>
+INSTITUTE/COMPANY : Dr B R Ambedkar National Institute of Technology Jalandhar<br>
+DOMAIN/LANGUGAE : Javascript/HTML, CSS<br>
+------
