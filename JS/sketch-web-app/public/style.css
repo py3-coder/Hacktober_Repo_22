@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.control-panel {
+  width: 100%;
+  position: fixed;
+  padding-bottom: 10px;
+  color: rgb(5, 5, 5);
+  background-color: #343a40;
+  display: flex;
+  justify-content: space-between;
+}
+.width-color {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bright img {
+  margin-top: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.moon img {
+  margin-top: 30px;
+  margin-right: 10px;
+  cursor: pointer;
+  color: #fff;
+}
+.up-arrow {
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.mm-1,
+.mm-2,
+.mm-3,
+.mm-4,
+.mm-5 {
+  margin-top: 10px;
+}
+.mm-1 div,
+.mm-2 div,
+.mm-3 div,
+.mm-4 div,
+.mm-5 div {
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid #fff;
+  width: 40px;
+  height: 1px;
+  background-color: #fff;
+}
+.mm-1 div {
+  height: 3px;
+}
+.mm-2 div {
+  height: 4px;
+}
+.mm-3 div {
+  height: 5px;
+}
+.mm-4 div {
+  height: 6px;
+}
+.mm-5 div {
+  height: 7px;
+}
+
+.stroke-width {
+  margin-top: 20px;
+  display: flex;
+  padding: 5px;
+  color: #fff;
+}
+.pointer:hover {
+  cursor: pointer;
+  border: 0.5px solid #fff;
+}
+.stroke-color {
+  display: flex;
+  margin-top: 10px;
+}
+.box {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-left: 20px;
+  transition: transform 0.2s;
+}
+.box:hover {
+  border: 0.5px solid #fff;
+  transform: scale(1.1);
+}
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  margin-right: 5px;
+  background-color: blue;
+}
+
+.users {
+  display: flex;
+  align-items: center;
+  font-size: 16pt;
+}
+.dropdown-toggle {
+  color: #fff;
+}
+.dropdown-toggle:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.dropdown-item {
+  color: #343a40;
+}
+.dropdown-item:hover {
+  text-decoration: none;
+}
+#drawing-board {
+  margin-top: 90px;
+}
+
+@media (max-width: 600px) {
+  .width-color {
+    display: flex;
+    flex-direction: column;
+  }
+  .stroke-width {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .stroke-color {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
