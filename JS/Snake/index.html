@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+    <script src="https://unpkg.com/ml5@0.4.1/dist/ml5.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+    <title>Snake!</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div id="welcome">
+        <h1>Welcome to the game!</h1>
+        <h3>
+            Use the arrow keys to move and eat the food.<br />
+            Do not hit the walls or bite yourself.
+        </h3>
+    </div>
+    <div id="end"></div>
+    <div class="restart" id="restart">
+        <button onclick="window.location.reload()">Restart Game</button>
+    </div>
+    <div>
+        <h2>Your Score: <span id="score">0</span></h2>
+    </div>
+    <script src="assets/javascript/snake.js"></script>
+    <script src="assets/javascript/sketch.js"></script>
+</body>
+</html>
