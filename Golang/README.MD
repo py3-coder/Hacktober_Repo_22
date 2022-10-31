@@ -42,9 +42,55 @@
     <td>Bubble Sort</td>
     <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/main/Golang/bubblesort.go</td>
   </tr>
+  
+  <tr>
+    <td  align="center"> 2. </td>
+    <td>Counting Sort</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/countingsort.go</td>
+  </tr>
 
+  <tr>
+    <td  align="center"> 3. </td>
+    <td>Factorial</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/factorialRecursive.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 4. </td>
+    <td>Fizz buzz</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/fizzbuzz.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 5. </td>
+    <td>HCF</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/hcf.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 6. </td>
+    <td>Hello world</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/helloworld.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 7. </td>
+    <td>Insertion sort</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/insertionsort.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 8. </td>
+    <td>Selection sort</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/selectionsort.go</td>
+  </tr>
+
+  <tr>
+    <td  align="center"> 9. </td>
+    <td>Pointers and Array</td>
+    <td>https://github.com/py3-coder/Hacktober_Repo_22/blob/golang-pointers/Golang/pointer_and_array.go</td>
+  </tr>
 
   <!-- ADD THE TEMPLATE BELOW -->
-
 
 </table>
